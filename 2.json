@@ -148,7 +148,7 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "claNcy_pow3r",
+          "name": "Fox",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
@@ -208,11 +208,15 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
+          "name": "DBZ.hitocalderon",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
           "name": "DBZ.Cabano",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "DBZ.Fein ",
+          "name": "DBZ.Mabe",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
@@ -242,7 +246,7 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "KANEKICHI ",
+          "name": "KANEKI",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
@@ -250,8 +254,8 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-            "name": "KANEKICHI",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            "name": "ZEROMERCY",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "L24DTR",
@@ -443,54 +447,78 @@
       ]
     },
     {
-      "team_name": "Aldea Gaming",
+      "team_name": "Old Dogs",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
       "team_players": [
         {
-          "name": "Pignal",
+          "name": "OD.PIGNAL ",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Siarko",
+          "name": "OD.SRK",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.Gnozpin",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "OD.NikoGOD",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.FROM-TUCUMAN",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "DirtyBoy-",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "name": "",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Parker",
+          "name": "OD.Cou2",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.Cervecero",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
         }
       ]
     },
     {
-      "team_name": "Cinder Wolves",
+      "team_name": "FANTASMAS",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
       "team_players": [
         {
-          "name": "cHeloga",
+          "name": "cHelO",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
         },
         {
-          "name": "Radamantys",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Irving",
+          "name": "MemiTo..",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Kenny",
+          "name": "Oli",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "I'm short guys :C",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Butakita",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+         {
+          "name": "NaiWanWan",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+        },
+         {
+          "name": "SKD-X",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "depressive",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Waster",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+          "name": "Dk3r",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     }
