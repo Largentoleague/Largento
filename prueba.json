@@ -37,6 +37,66 @@
       ]
     },
     {
+      "team_name": "Veritas Gaming",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/teams_icons/the_rats_logo.png",
+      "team_players": [
+        {
+          "name": "ForceAken",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Deprenanox",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Elefantito",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
+        },
+        {
+          "name": "Depecito",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Morty-",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "S4n H0l0",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Monkeen",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Nymeria",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/teams_icons/the_rats_logo.png",
+      "team_players": [
+        {
+          "name": "Worlock",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Andino",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Chari",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "frizolain",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "cedric",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        }
+      ]
+    },
+    {
       "team_name": "Take the Rapier",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
       "team_players": [
