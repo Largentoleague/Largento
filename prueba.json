@@ -560,7 +560,9 @@
         "l": 6,
         "d": null,
         "puntos": 0
-      },
+      }      
+    ],
+    [      
       {
         "team": "BRANCA TEAM",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
@@ -572,6 +574,15 @@
       },
       {
         "team": "Neennyz3000",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
+        "games": 6,
+        "w": 5,
+        "l": 1,
+        "d": null,
+        "puntos": 10
+      },
+      {
+      "team": "Veritas gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
         "games": 6,
         "w": 5,
@@ -626,6 +637,8 @@
         "d": 1,
         "puntos": 5
       },
+    ],
+    [
       {
         "team": "Take the Rapier",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
@@ -637,6 +650,15 @@
       },
       {
         "team": "Aldea Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
+        "games": 6,
+        "w": 1,
+        "l": 5,
+        "d": 0,
+        "puntos": 2
+      },
+      {
+        "team": "nimerya",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
         "games": 6,
         "w": 1,
