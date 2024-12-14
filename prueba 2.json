@@ -1,7 +1,7 @@
 {
   [
     {
-      label: '¿Si no soy argentino puedo inscribir mi equipo igual?',
+      "label": '¿Si no soy argentino puedo inscribir mi equipo igual?',
       icon: 'i-heroicons-information-circle',
       defaultOpen: true,
       content: 'Si claro si no sos Argentino pueden participar igual adaptamos el precio de la inscripción a USD.'
