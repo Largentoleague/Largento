@@ -6,17 +6,17 @@
       "label": "Estructura de la fase de grupos",
       "icon": "i-heroicons-information-circle",
       "defaultOpen": true,
-      "content": "La fase de grupos se compondrá por 7 fechas, de las cuales cada equipo jugará 2 por semana (excepto que en la semana ese equipo tenga una fecha libre).\nComo regla general, los equipos deberán coordinar sus cruces con los demás capitanes siguiendo el orden de las fechas.\nEjemplo: El equipo Anxieti deberá jugar en su primera semana contra NoLegion (fecha 1) y contra Gatitos Techeros Gaming (fecha 2)."
+      "content": "La fase de grupos se compondrá por 4 grupos de 4 equipos, se jugaran 3 fechas. Como regla general, los equipos deberán coordinar sus cruces con los demás capitanes."
     },
     {
       "label": "Coordinación de partidas",
       "icon": "i-heroicons-arrow-down-tray",
-      "content": "Las partidas entre semana se disputarán a libre elección entre los capitanes durante el martes al domingo (no se podrán jugar los lunes).\nSi los capitanes no coordinan su respectiva fecha, se jugará como predeterminado el día domingo por la noche (horario a determinar por el staff).\nCada equipo tendrá una fecha libre, por lo que se permitirá adelantar fechas, siempre y cuando el otro capitán esté de acuerdo."
+      "content": "Las partidas entre semana se disputarán a libre elección entre los capitanes durante el lunes al domingo. Si los capitanes no coordinan su respectiva fecha, se jugará como predeterminado el día domingo (horario a determinar por el staff)."
     },
     {
       "label": "Notificación de cruces",
       "icon": "i-heroicons-eye-dropper",
-      "content": "Todos los cruces que coordinen los capitanes deberán ser informados (por ambos capitanes) a través del grupo de capitanes.\nEjemplo: Anxieti coordina jugar el día jueves 26/08 a las 22hs vs NoLegion. Los respectivos capitanes deberán notificar dicho cruce al grupo de capitanes con un plazo no menor a 12hs antes del enfrentamiento.\nEn este caso, el plazo máximo para informar ese cruce sería el jueves 26/08 a las 10hs. Esto es necesario para asegurar que haya un equipo de casteo encargado de streamear el cruce."
+      "content": "Todos los cruces que coordinen los capitanes deberán ser informados (por ambos capitanes) a través del grupo de capitanes. Los respectivos capitanes deberán notificar dicho cruce al grupo de capitanes con un plazo no menor a 12hs antes del enfrentamiento. Esto es necesario para asegurar que haya un equipo de casteo encargado de streamear el cruce."
     }
   ],
   "teams": [
