@@ -586,8 +586,8 @@
    "tables": [
     [
       {
-        "team": "Falta Envido",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
+        "team": "Gatitos Techeros",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
         "games": null,
         "w": null,
         "l": null,
@@ -661,9 +661,9 @@
       }
     ],
     [
-      {
-        "team": "Gatitos Techeros",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
+       {
+        "team": "Falta Envido",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
         "games": null,
         "w": null,
         "l": null,
