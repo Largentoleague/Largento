@@ -4,27 +4,27 @@
         "label": "¿Si no soy argentino puedo inscribir mi equipo igual?",
         "icon": "i-heroicons-information-circle",
         "defaultOpen": true,
-        "content": "Si claro si no sos Argentino pueden participar igual adaptamos el precio de la inscripción a USD."
+        "content": "La liga esta abierta a cualquier persona, el requisito mínimo es que el capitán sea hispanohablante. A tener en cuenta, en caso de que el equipo no pueda realizar la inscripción utilizando pesos argentinos, la misma se convertirá a dólar, según el tc a la fecha. También deben tener en cuenta que el horario acordado para las partidas será por predeterminado el de Argentina (GMT-3). Por último, se utilizara como predeterminado el servidor de Argentina, exceptuando que el mismo tenga problemas o que ambos capitanes den su expresa confirmación de cambiar el servidor."
       },
       {
         "label": "¿Hasta cuando tengo tiempo para anotar mi equipo?",
         "icon": "i-heroicons-arrow-down-tray",
-        "content": "Tienen tiempo para inscribir equipos hasta el día 20/09."
+        "content": "Las inscripciones se cerraran el dia 13/12"
       },
       {
         "label": "¿Cuánto va a durar la liga?",
         "icon": "i-heroicons-eye-dropper",
-        "content": "La liga va a durar aproximadamente 45 días dependiendo el formato y la cantidad de equipos."
+        "content": "La edición actual se compondrá de 3 partes. 1ra parte, fase de grupos, la misma se realizara en 3 fechas con una duración de 14 días. 16/12 a 29/12. 2da parte, clasificatoria , la misma se realizara un enfrentamiento entre 16 equipos y su duración será de 7 días.  30/12 a 05/01. 3ra parte, evento principal, el mismo tendra un formato de doble eliminación (upper y lower bracket), comenzara el 06/01 y se pregramara los cruces."
       },
       {
         "label": "¿Las fechas de los partidos ya vienen predeterminadas?",
         "icon": "i-heroicons-rectangle-group",
-        "content": "No, las fechas de los partidos las acuerdan los capitanes que se enfrenten, en un lapso de tiempo que dé el reglamento."
+        "content": "Ya se realizo el sorteo de grupos y el sorteo de las fechas por lo que las mismas ya están establecidas."
       },
       {
         "label": "¿Cómo me comunico con el staff?",
         "icon": "i-heroicons-rectangle-group",
-        "content": "Mediante el discord a personas que tengan roles de staff o redes de la liga."
+        "content": "Se pueden comunicar con nosotros mediante el discord escribiendo al usuario (Cervecero) o (Messi Gordo). También nos pueden enviar MD a cualquiera de nuestras redes sociales (WSP - IG - FB)."
       }
     ]
 }
