@@ -733,21 +733,21 @@
       [
         {
           "team": "Neennyz3000",
-          "resultado": "0"
+          "resultado": 0
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": "2"
+          "resultado": 2
         }
       ],
       [
         {
           "team": "Aldea Gaming",
-          "resultado": "0"
+          "resultado": 0
         },
         {
           "team": "Epicenter",
-          "resultado": "2"
+          "resultado": 2
         }
       ],
       [
@@ -763,11 +763,11 @@
       [
         {
           "team": "The Rats",
-          "resultado": "1"
+          "resultado": 1
         },
         {
           "team": "Cinder Wolves",
-          "resultado": "1"
+          "resultado": 1
         }
       ]
     ],
