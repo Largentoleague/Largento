@@ -588,135 +588,157 @@
       ]
     }
   ],
-  "tables": [
+   "tables": [
     [
       {
-        "team": "Gatitos Techeros Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
-        "games": 6,
-        "w": 6,
+        "team": "Falta Envido",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
+        "games": null,
+        "w": null,
         "l": null,
         "d": null,
-        "puntos": 12
+        "puntos": null
       },
       {
         "team": "Hydra E-sport",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 6,
-        "w": 2,
-        "l": 3,
-        "d": 1,
-        "puntos": 5
-      },
-      {
-        "team": "NoLegion",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 6,
-        "w": 2,
-        "l": 2,
-        "d": 2,
-        "puntos": 6
-      },
-      {
-        "team": "Anxiety",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
-        "games": 6,
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Hydra E-Sports.png",
+        "games": null,
         "w": null,
-        "l": 6,
+        "l": null,
         "d": null,
-        "puntos": 0
+        "puntos": null
       },
       {
-        "team": "BRANCA TEAM",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-        "games": 6,
-        "w": 3,
-        "l": 2,
-        "d": 1,
-        "puntos": 7
+        "team": "Lightning +4 Tangos",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
       },
       {
-        "team": "Neennyz3000",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 6,
-        "w": 5,
-        "l": 1,
+        "team": "No papus",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
+        "games": null,
+        "w": null,
+        "l": null,
         "d": null,
-        "puntos": 10
+        "puntos": null
+      }      
+    ],
+    [      
+      {
+        "team": "Tatakae",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
       },
       {
-        "team": "Papu y Los Papulines",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 6,
-        "w": 1,
-        "l": 5,
+        "team": "Veritas Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
+       "games": null,
+        "w": null,
+        "l": null,
         "d": null,
-        "puntos": 2
+        "puntos": null
+      },
+      {
+      "team": "Efecto Divine",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/teams_icons/Temporada 3/efecto_divine.png",
+       "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Fantasmasad",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
       }
     ],
     [
       {
-        "team": "Epicenter",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 6,
-        "w": 5,
-        "l": null,
-        "d": 1,
-        "puntos": 11
-      },
-      {
-        "team": "Los Atiende Boludos",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
-        "games": 6,
-        "w": 3,
-        "l": null,
-        "d": 3,
-        "puntos": 9
-      },
-      {
-        "team": "Cinder Wolves",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
-        "games": 6,
+        "team": "Gatitos Techeros Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
+        "games": null,
         "w": null,
-        "l": 4,
-        "d": 2,
-        "puntos": 3
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Guerreros Z",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Lemuria",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Nymeria",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      }
+    ],
+    [
+      {
+        "team": "Old Dogs",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Skere",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Team Mafia",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
       },
       {
         "team": "The Rats",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
-        "games": 6,
-        "w": 2,
-        "l": 3,
-        "d": 1,
-        "puntos": 5
-      },
-      {
-        "team": "Take the Rapier",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-        "games": 6,
-        "w": 2,
-        "l": 2,
-        "d": 2,
-        "puntos": 6
-      },
-      {
-        "team": "Aldea Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
-        "games": 6,
-        "w": 1,
-        "l": 5,
-        "d": 0,
-        "puntos": 2
-      },
-      {
-        "team": "The Mystery Machine",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "games": 6,
-        "w": 2,
-        "l": 1,
-        "d": 3,
-        "puntos": 7
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
       }
     ]
   ],
@@ -729,13 +751,13 @@
         },
         {
           "team": "NoLegion",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Branca Team",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Hydra E-Sport",
@@ -749,7 +771,7 @@
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -759,27 +781,27 @@
         },
         {
           "team": "Epicenter",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Take the Rapier",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
         {
           "team": "The Rats",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Cinder Wolves",
-          "resultado": 1
+          "resultado": 0
         }
       ]
     ],
@@ -787,7 +809,7 @@
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Anxiety",
@@ -797,11 +819,11 @@
       [
         {
           "team": "NoLegion",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Hydra E-Sport",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
@@ -811,7 +833,7 @@
         },
         {
           "team": "Branca Team",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -821,13 +843,13 @@
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Epicenter",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "The Rats",
@@ -837,11 +859,11 @@
       [
         {
           "team": "The Mystery Machine",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Take the Rapier",
-          "resultado": 1
+          "resultado": 0
         }
       ]
     ],
@@ -853,7 +875,7 @@
         },
         {
           "team": "Nennyz3000",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -863,13 +885,13 @@
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "NoLegion",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Papu y Los Papulines",
@@ -879,27 +901,27 @@
       [
         {
           "team": "Cinder Wolves",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "The Mystery Machine",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Los Atiende Boludos",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Epicenter",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
         {
           "team": "The Rats",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Aldea Gaming",
@@ -911,17 +933,17 @@
       [
         {
           "team": "Branca Team",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "NoLegion",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Papu y Los Papulines",
@@ -931,7 +953,7 @@
       [
         {
           "team": "Nennyz3000",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Hydra E-sport",
@@ -945,13 +967,13 @@
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Epicenter",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "The Mystery Machine",
@@ -961,7 +983,7 @@
       [
         {
           "team": "Take the Rapier",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Cinder Wolves",
@@ -973,7 +995,7 @@
       [
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Branca Team",
@@ -983,7 +1005,7 @@
       [
         {
           "team": "Hydra E-sport",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Anxiety",
@@ -997,13 +1019,13 @@
         },
         {
           "team": "Nennyz3000",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Epicenter",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Take the Rapier",
@@ -1013,7 +1035,7 @@
       [
         {
           "team": "Los Atiende Boludos",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "The Rats",
@@ -1023,7 +1045,7 @@
       [
         {
           "team": "The Mystery Machine",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Aldea Gaming",
@@ -1039,13 +1061,13 @@
         },
         {
           "team": "Papu y Los Papulines",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Nennyz3000",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Branca Team",
@@ -1059,7 +1081,7 @@
         },
         {
           "team": "Gatitos Techeros Gaming",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -1069,7 +1091,7 @@
         },
         {
           "team": "Take the Rapier",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -1079,7 +1101,7 @@
         },
         {
           "team": "Epicenter",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -1089,7 +1111,7 @@
         },
         {
           "team": "The Mystery Machine",
-          "resultado": 2
+          "resultado": 0
         }
       ]
     ],
@@ -1097,7 +1119,7 @@
       [
         {
           "team": "Branca Team",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Anxiety",
@@ -1107,7 +1129,7 @@
       [
         {
           "team": "Nennyz3000",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "NoLegion",
@@ -1121,13 +1143,13 @@
         },
         {
           "team": "Hydra E-sport",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "Aldea Gaming",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Cinder Wolves",
@@ -1141,17 +1163,17 @@
         },
         {
           "team": "The Rats",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
         {
           "team": "The Mystery Machine",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Los Atiende Boludos",
-          "resultado": 1
+          "resultado": 0
         }
       ]
     ]
