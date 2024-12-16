@@ -129,7 +129,7 @@
     },
     {
       "team_name": "Hydra E-sport",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Hydra E-Sports.png",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
       "team_players": [
         {
           "name": "hawkeye",
@@ -199,7 +199,7 @@
         },
         {
           "name": "WrWr-",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         }
       ]
     },
@@ -368,11 +368,11 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "Rozer",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+          "name": "Porco Rex",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Soyaa__",
+          "name": "maraboli",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
@@ -512,7 +512,7 @@
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
       "team_players": [
         {
-          "name": "EL SEÑOR PONY",
+          "name": "z-ta",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
@@ -533,6 +533,10 @@
         },
         {
           "name": "Zhen'",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Radamanthys",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
@@ -580,10 +584,6 @@
          {
           "name": "SKD-X",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Dk3r",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     }
@@ -591,26 +591,8 @@
    "tables": [
     [
       {
-        "team": "Falta Envido",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
-        "games": null,
-        "w": null,
-        "l": null,
-        "d": null,
-        "puntos": null
-      },
-      {
-        "team": "Hydra E-sport",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Hydra E-Sports.png",
-        "games": null,
-        "w": null,
-        "l": null,
-        "d": null,
-        "puntos": null
-      },
-      {
-        "team": "Lightning +4 Tangos",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+        "team": "Gatitos Techeros",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
         "games": null,
         "w": null,
         "l": null,
@@ -625,18 +607,27 @@
         "l": null,
         "d": null,
         "puntos": null
-      }      
-    ],
-    [      
+      },
       {
-        "team": "Tatakae",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
+        "team": "Falta Envido",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
         "games": null,
         "w": null,
         "l": null,
         "d": null,
         "puntos": null
       },
+      {
+        "team": "Hydra E-sport",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      }
+    ],
+    [  
       {
         "team": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
@@ -647,37 +638,8 @@
         "puntos": null
       },
       {
-      "team": "Efecto Divine",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/teams_icons/Temporada 3/efecto_divine.png",
-       "games": null,
-        "w": null,
-        "l": null,
-        "d": null,
-        "puntos": null
-      },
-      {
-        "team": "Fantasmasad",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
-        "games": null,
-        "w": null,
-        "l": null,
-        "d": null,
-        "puntos": null
-      }
-    ],
-    [
-      {
-        "team": "Gatitos Techeros Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-        "games": null,
-        "w": null,
-        "l": null,
-        "d": null,
-        "puntos": null
-      },
-      {
-        "team": "Guerreros Z",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
+        "team": "Old Dogs",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
         "games": null,
         "w": null,
         "l": null,
@@ -694,28 +656,37 @@
         "puntos": null
       },
       {
-        "team": "Nymeria",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
+        "team": "Guerreros Z",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
         "games": null,
         "w": null,
         "l": null,
         "d": null,
         "puntos": null
-      }
+     }
     ],
     [
-      {
-        "team": "Old Dogs",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
+       {
+      "team": "Efecto Divine",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
+       "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+       },
+       {
+        "team": "Tatakae",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
         "games": null,
         "w": null,
         "l": null,
         "d": null,
         "puntos": null
-      },
-      {
-        "team": "Skere",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
+       },
+       {
+        "team": "Nymeria",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
         "games": null,
         "w": null,
         "l": null,
@@ -725,6 +696,35 @@
       {
         "team": "Team Mafia",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      }
+    ],
+    [
+       {
+        "team": "Lightning +4 Tangos",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Fantasmas",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
+        "games": null,
+        "w": null,
+        "l": null,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "team": "Skere",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
         "games": null,
         "w": null,
         "l": null,
