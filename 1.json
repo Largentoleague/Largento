@@ -741,153 +741,247 @@
     [
       [
         {
-          "team": "Gatitos Techeros",
+          "team": "Anxiety",
           "resultado": 0
         },
         {
-          "team": "No Papus",
-          "resultado": 0
+          "team": "NoLegion",
+          "resultado": 2
         }
       ],
       [
         {
-          "team": "Falta Envido",
-          "resultado": 0
+          "team": "Branca Team",
+          "resultado": 2
         },
         {
           "team": "Hydra E-Sport",
           "resultado": 0
         }
+      ],
+      [
+        {
+          "team": "Neennyz3000",
+          "resultado": "0"
+        },
+        {
+          "team": "Gatitos Techeros Gaming",
+          "resultado": "2"
+        }
+      ],
+      [
+        {
+          "team": "Aldea Gaming",
+          "resultado": "0"
+        },
+        {
+          "team": "Epicenter",
+          "resultado": "2"
+        }
+      ],
+      [
+        {
+          "team": "Take the Rapier",
+          "resultado": 1
+        },
+        {
+          "team": "Los Atiende Boludos",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "The Rats",
+          "resultado": "1"
+        },
+        {
+          "team": "Cinder Wolves",
+          "resultado": "1"
+        }
       ]
     ],
     [
       [
         {
-          "team": "Veritas Gaming",
-          "resultado": 0
+          "team": "Gatitos Techeros Gaming",
+          "resultado": 2
         },
         {
-          "team": "Old Dogs",
+          "team": "Anxiety",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "Lemuria",
-          "resultado": 0
+          "team": "NoLegion",
+          "resultado": 1
         },
         {
-          "team": "Guerreros Z",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Efecto Divine",
-          "resultado": 0
-        },
-        {
-          "team": "Tatakae",
-          "resultado": 0
+          "team": "Hydra E-Sport",
+          "resultado": 1
         }
       ],
       [
         {
-          "team": "Nymeria",
+          "team": "Papu y Los Papulines",
           "resultado": 0
         },
         {
-          "team": "Team Mafia",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Lightning + 4 tangos",
-          "resultado": 0
-        },
-        {
-          "team": "Fantasmas",
-          "resultado": 0
+          "team": "Branca Team",
+          "resultado": 2
         }
       ],
       [
         {
-          "team": "Skere",
+          "team": "Cinder Wolves",
           "resultado": 0
+        },
+        {
+          "team": "Los Atiende Boludos",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Epicenter",
+          "resultado": 2
         },
         {
           "team": "The Rats",
           "resultado": 0
         }
+      ],
+      [
+        {
+          "team": "The Mystery Machine",
+          "resultado": 1
+        },
+        {
+          "team": "Take the Rapier",
+          "resultado": 1
+        }
       ]
     ],
     [
       [
         {
-          "team": "Gatitos Techeros",
+          "team": "Anxiety",
           "resultado": 0
         },
         {
-          "team": "Falta Envido",
+          "team": "Nennyz3000",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Hydra E-Sport",
+          "resultado": 0
+        },
+        {
+          "team": "Gatitos Techeros Gaming",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "NoLegion",
+          "resultado": 2
+        },
+        {
+          "team": "Papu y Los Papulines",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "No papus",
+          "team": "Cinder Wolves",
+          "resultado": 1
+        },
+        {
+          "team": "The Mystery Machine",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "Los Atiende Boludos",
+          "resultado": 1
+        },
+        {
+          "team": "Epicenter",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "The Rats",
+          "resultado": 2
+        },
+        {
+          "team": "Aldea Gaming",
           "resultado": 0
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "team": "Branca Team",
+          "resultado": 1
+        },
+        {
+          "team": "NoLegion",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "Gatitos Techeros Gaming",
+          "resultado": 2
+        },
+        {
+          "team": "Papu y Los Papulines",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Nennyz3000",
+          "resultado": 2
         },
         {
           "team": "Hydra E-sport",
           "resultado": 0
         }
-      ]
-    ],
-    [
+      ],
       [
         {
-          "team": "Veritas Gaming",
+          "team": "Aldea Gaming",
           "resultado": 0
         },
         {
-          "team": "Lemuria",
+          "team": "Los Atiende Boludos",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Epicenter",
+          "resultado": 2
+        },
+        {
+          "team": "The Mystery Machine",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "Old Dogs",
-          "resultado": 0
+          "team": "Take the Rapier",
+          "resultado": 2
         },
         {
-          "team": "Guerreros Z",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Efecto Divine",
-          "resultado": 0
-        },
-        {
-          "team": "Nymeria",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Tatakae",
-          "resultado": 0
-        },
-        {
-          "team": "Team Mafia",
+          "team": "Cinder Wolves",
           "resultado": 0
         }
       ]
@@ -895,113 +989,190 @@
     [
       [
         {
-          "team": "Lightning +4 Tangos",
-          "resultado": 0
+          "team": "Gatitos Techeros Gaming",
+          "resultado": 2
         },
         {
-          "team": "Skere",
+          "team": "Branca Team",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "Fantasmas",
+          "team": "Hydra E-sport",
+          "resultado": 2
+        },
+        {
+          "team": "Anxiety",
           "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Papu y Los Papulines",
+          "resultado": 0
+        },
+        {
+          "team": "Nennyz3000",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Epicenter",
+          "resultado": 2
+        },
+        {
+          "team": "Take the Rapier",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Los Atiende Boludos",
+          "resultado": 2
         },
         {
           "team": "The Rats",
           "resultado": 0
         }
+      ],
+      [
+        {
+          "team": "The Mystery Machine",
+          "resultado": 2
+        },
+        {
+          "team": "Aldea Gaming",
+          "resultado": 0
+        }
       ]
     ],
     [
       [
         {
-          "team": "Gatitos Techeros",
+          "team": "Anxiety",
+          "resultado": 0
+        },
+        {
+          "team": "Papu y Los Papulines",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Nennyz3000",
+          "resultado": 2
+        },
+        {
+          "team": "Branca Team",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "NoLegion",
+          "resultado": 0
+        },
+        {
+          "team": "Gatitos Techeros Gaming",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Aldea Gaming",
+          "resultado": 0
+        },
+        {
+          "team": "Take the Rapier",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Cinder Wolves",
+          "resultado": 0
+        },
+        {
+          "team": "Epicenter",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "The Rats",
+          "resultado": 0
+        },
+        {
+          "team": "The Mystery Machine",
+          "resultado": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "team": "Branca Team",
+          "resultado": 2
+        },
+        {
+          "team": "Anxiety",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Nennyz3000",
+          "resultado": 2
+        },
+        {
+          "team": "NoLegion",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Papu y Los Papulines",
           "resultado": 0
         },
         {
           "team": "Hydra E-sport",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Aldea Gaming",
+          "resultado": 2
+        },
+        {
+          "team": "Cinder Wolves",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "No papus",
-          "resultado": 0
-        },
-        {
-          "team": "Falta Envido",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Veritas Gaming",
-          "resultado": 0
-        },
-        {
-          "team": "Guerreros Z",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Old Dogs",
-          "resultado": 0
-        },
-        {
-          "team": "Lemuria",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Efecto Divine",
-          "resultado": 0
-        },
-        {
-          "team": "Team Mafia",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Tatakae",
-          "resultado": 0
-        },
-        {
-          "team": "Nymeria",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Lightning +4 Tangos",
+          "team": "Take the Rapier",
           "resultado": 0
         },
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
         {
-          "team": "Fantasmas",
-          "resultado": 0
+          "team": "The Mystery Machine",
+          "resultado": 1
         },
         {
-          "team": "Skere",
-          "resultado": 0
+          "team": "Los Atiende Boludos",
+          "resultado": 1
         }
       ]
-    ],
+    ]
+  ],
     "elimination": [
     [
       { "team_name": "Branca Team", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png", "win": false },
