@@ -1003,6 +1003,7 @@
         }
       ]
     ],
+  ]
  "elimination": [
     [
       { "team_name": "Branca Team", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png", "win": false },
