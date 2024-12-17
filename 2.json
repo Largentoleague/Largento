@@ -187,7 +187,7 @@
         },
         {
           "name": "ovo1de",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
           "name": "Shavii",
@@ -199,7 +199,7 @@
         },
         {
           "name": "WrWr-",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     },
@@ -513,10 +513,6 @@
       "team_players": [
         {
           "name": "z-ta",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Calcifer",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
