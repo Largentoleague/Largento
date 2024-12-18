@@ -627,38 +627,38 @@
       {
         "team": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
-       "games": null,
+       "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
       },
       {
         "team": "Old Dogs",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
       },
       {
         "team": "Lemuria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "team": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
      }
     ],
     [
@@ -849,7 +849,7 @@
         },
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -859,7 +859,7 @@
         },
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
