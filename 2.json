@@ -683,31 +683,31 @@
        {
         "team": "Nymeria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "team": "Team Mafia",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
       }
     ],
     [
        {
         "team": "Lightning +4 Tangos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "team": "Fantasmas",
@@ -730,11 +730,11 @@
       {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       }
     ]
   ],
