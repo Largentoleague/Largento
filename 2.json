@@ -988,20 +988,36 @@
   ],
  "elimination": [
     [
-      { "team_name": "Branca Team", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png", "win": false },
-      { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png", "win": true }
+      { "team_name": "1ro Grupo A", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "The Mystery Machine", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "win": true },
-      { "team_name": "Papu y los Papulines", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png", "win": false }
+      { "team_name": "2do Grupo A", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "NoLegion", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "win": false },
-      { "team_name": "Cinder Wolves", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "win": true }
+      { "team_name": "1ro Grupo B", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "Take the Rapier", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png", "win": false },
-      { "team_name": "Hydra E-sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": true }
+      { "team_name": "2do Grupo B", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "1ro Grupo C", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "2do Grupo C", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "1ro Grupo D", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "2do Grupo D", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
     ]
   ],
   "lower_bracket": [
