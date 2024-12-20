@@ -636,20 +636,20 @@
       {
         "team": "Old Dogs",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": 1,
-        "d": null,
-        "puntos": 0
+        "d": 1,
+        "puntos": 1
       },
       {
         "team": "Lemuria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
-        "games": 1,
+        "games": 2,
         "w": 1,
         "l": null,
-        "d": null,
-        "puntos": 2
+        "d": 1,
+        "puntos": 3
       },
       {
         "team": "Guerreros Z",
@@ -665,11 +665,11 @@
        {
       "team": "Efecto Divine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
-       "games": null,
-        "w": null,
+       "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
        },
        {
         "team": "Tatakae",
@@ -683,9 +683,9 @@
        {
         "team": "Nymeria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-        "games": 1,
+        "games": 2,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": 2
       },
@@ -865,7 +865,7 @@
       [
         {
           "team": "Efecto Divine",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Nymeria",
@@ -937,11 +937,11 @@
       [
         {
           "team": "Old Dogs",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
