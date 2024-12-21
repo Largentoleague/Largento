@@ -589,38 +589,38 @@
       {
         "team": "Gatitos Techeros",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "team": "No papus",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "team": "Falta Envido",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
       }
     ],
     [  
@@ -674,20 +674,20 @@
        {
         "team": "Tatakae",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
        },
        {
         "team": "Nymeria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-        "games": 2,
-        "w": 1,
+        "games": 3,
+        "w": 2,
         "l": 1,
         "d": null,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "team": "Team Mafia",
@@ -907,7 +907,7 @@
       [
         {
           "team": "Gatitos Techeros",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Hydra E-sport",
@@ -917,11 +917,11 @@
       [
         {
           "team": "No papus",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Falta Envido",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -961,7 +961,7 @@
         },
         {
           "team": "Nymeria",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
