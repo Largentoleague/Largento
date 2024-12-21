@@ -703,20 +703,20 @@
        {
         "team": "Lightning +4 Tangos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 3
       },
       {
         "team": "Fantasmas",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "team": "Skere",
