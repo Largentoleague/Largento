@@ -704,37 +704,37 @@
         "team": "Lightning +4 Tangos",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
         "games": 3,
-        "w": 1,
-        "l": 1,
+        "w": 2,
+        "l": 0,
         "d": 1,
         "puntos": 3
       },
       {
         "team": "Fantasmas",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
-        "games": 1,
-        "w": 1,
-        "l": null,
-        "d": null,
-        "puntos": 2
-      },
-      {
-        "team": "Skere",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
-        "games": 1,
-        "w": null,
-        "l": 1,
+        "games": 3,
+        "w": 0,
+        "l": 3,
         "d": null,
         "puntos": 0
       },
       {
+        "team": "Skere",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
+        "games": 2,
+        "w": 1,
+        "l": 1,
+        "d": null,
+        "puntos": 2
+      },
+      {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": null,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       }
     ]
   ],
@@ -803,11 +803,11 @@
       [
         {
           "team": "Lightning + 4 tangos",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Fantasmas",
-          "resultado": 2
+          "resultado": 0
         }
       ],
       [
@@ -899,7 +899,7 @@
         },
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 2
         }
       ]
     ],
@@ -981,7 +981,7 @@
         },
         {
           "team": "Skere",
-          "resultado": 0
+          "resultado": 2
         }
       ]
     ]
