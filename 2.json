@@ -627,9 +627,9 @@
       {
         "team": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
-       "games": 1,
+       "games": 2,
         "w": null,
-        "l": 1,
+        "l": 2,
         "d": null,
         "puntos": 0
       },
@@ -654,11 +654,11 @@
       {
         "team": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": 1,
-        "w": 1,
+        "games": 2,
+        "w": 2,
         "l": null,
         "d": null,
-        "puntos": 2
+        "puntos": 4
      }
     ],
     [
@@ -931,7 +931,7 @@
         },
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
