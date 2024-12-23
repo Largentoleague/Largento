@@ -589,38 +589,38 @@
       {
         "team": "Gatitos Techeros",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-        "games": 1,
-        "w": 1,
+        "games": 2,
+        "w": 2,
         "l": null,
         "d": null,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "team": "No papus",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
-        "games": 1,
+        "games": 2,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 1
       },
       {
         "team": "Falta Envido",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
-        "games": 1,
+        "games": 2,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 1
       },
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": 1,
         "d": null,
-        "puntos": 0
+        "puntos": 2
       }
     ],
     [  
