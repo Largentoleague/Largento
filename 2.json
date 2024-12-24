@@ -665,9 +665,9 @@
        {
       "team": "Efecto Divine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
-       "games": 1,
+       "games": 2,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": 2
        },
@@ -692,11 +692,11 @@
       {
         "team": "Team Mafia",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 2,
         "d": null,
-        "puntos": 0
+        "puntos": 2
       }
     ],
     [
@@ -951,7 +951,7 @@
         },
         {
           "team": "Team Mafia",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
