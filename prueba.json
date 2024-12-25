@@ -1,22 +1,45 @@
 {
-  "edition": "Primera edición",
+  "edition": "Tercera edición",
   "visible": false,
+  "introduction": [
+    {
+      "label": "Estructura de la fase de grupos",
+      "icon": "i-heroicons-information-circle",
+      "defaultOpen": true,
+      "content": "La fase de grupos se compondrá por 4 grupos de 4 equipos, se jugaran 3 fechas. Como regla general, los equipos deberán coordinar sus cruces con los demás capitanes."
+    },
+    {
+      "label": "Coordinación de partidas",
+      "icon": "i-heroicons-arrow-down-tray",
+      "content": "Las partidas entre semana se disputarán a libre elección entre los capitanes durante el lunes al domingo. Si los capitanes no coordinan su respectiva fecha, se jugará como predeterminado el día domingo (horario a determinar por el staff)."
+    },
+    {
+      "label": "Fase de clasificación",
+      "icon": "i-heroicons-arrow-down-tray",
+      "content": "En esta fase se determinara que equipos pasan a la upper o a la lower en main event, para eso se jugara un cruce bo3. Los cruces se determinaran entre el 1ro del grupo A vs el 3ro o el 4to del grupo B (según cual elija el 1ro del grupo A), el 2do del grupo B jugara contra el 3ro o 4to grupo B. Misma lojica para los grupos C y D."
+    },
+    {
+      "label": "Notificación de cruces",
+      "icon": "i-heroicons-eye-dropper",
+      "content": "Todos los cruces que coordinen los capitanes deberán ser informados (por ambos capitanes) a través del grupo de capitanes. Los respectivos capitanes deberán notificar dicho cruce al grupo de capitanes con un plazo no menor a 12hs antes del enfrentamiento. Esto es necesario para asegurar que haya un equipo de casteo encargado de streamear el cruce."
+    }
+  ],
   "teams": [
     {
       "team_name": "The Rats",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
       "team_players": [
         {
           "name": "Vitaly!",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "El Tucumano",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
+          "name": "George.",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
           "name": "Beto",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "Celo",
@@ -27,18 +50,18 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Haru",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+          "name": "Abugi",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "NikoGOD",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "name": "Shiro",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
       ]
     },
     {
       "team_name": "Veritas Gaming",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/teams_icons/the_rats_logo.png",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
       "team_players": [
         {
           "name": "ForceAken",
@@ -72,7 +95,7 @@
     },
     {
       "team_name": "Nymeria",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/teams_icons/the_rats_logo.png",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
       "team_players": [
         {
           "name": "Worlock",
@@ -82,73 +105,25 @@
           "name": "Andino",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
+         {
+          "name": "lighto",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
         {
           "name": "Chari",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "frizolain",
+          "name": "frizolini",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "cedric",
+          "name": "giulinho",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "cedic",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        }
-      ]
-    },
-    {
-      "team_name": "Take the Rapier",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-      "team_players": [
-        {
-          "name": "Tuka",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "S4TVRN0",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Kachador",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "ULTIMATE FIAT",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "KEEP UP THE MOMENTUM",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "monstermonster",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        }
-      ]
-    },
-    {
-      "team_name": "NoLegion",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-      "team_players": [
-        {
-          "name": "NXY-",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "pi xu long",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Pombero",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "hito",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "mabe",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     },
@@ -165,45 +140,41 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Fr4nkgab",
+          "name": "Malcriao",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "GNOZPIN",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "name": "imy",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "El Alessi™",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "claNcy_pow3r",
+          "name": "Fox",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Gaspi",
+          "name": "Antoo",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "Mantra",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Mick3y",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
         }
       ]
     },
     {
-      "team_name": "Neennyz3000",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
+      "team_name": "Falta Envido",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
       "team_players": [
         {
-          "name": "Nenny 120",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+          "name": "TOSTA",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Wicked",
+          "name": "mtE",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
@@ -211,80 +182,88 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Tabu",
+          "name": "DeSerT",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "faye valentine",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "name": "ovo1de",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "Layer",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "name": "Shavii",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+         {
+          "name": "Bean",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "SkD-X",
+          "name": "WrWr-",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     },
     {
-      "team_name": "Anxiety",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
+      "team_name": "Guerreros Z",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
       "team_players": [
         {
-          "name": "Limooncito",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "Bloodbone NyA",
+          "name": "DBZ.Profesor",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Anatham",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "DiE4u",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "jorGI7O",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "Drkmoon-",
+          "name": "DBZ.Dragonsito",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "SISTEMAS",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+          "name": "DBZ.hitocalderon",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "DBZ.Cabano",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "DBZ.Mabe",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "DBZ.Pixulong",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "DBZ.Sebas",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "DBZ.7uKingMad",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         }
       ]
     },
     {
-      "team_name": "Gatitos Techeros Gaming",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
+      "team_name": "Gatitos Techeros",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
       "team_players": [
         {
-          "name": "descobridor dos sete mares",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "sumiya bro",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Zeromercy",
+          "name": "DESCOBRIDOR",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "chocson",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "name": "SUMIYA BRO",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-            "name": "KANEKICHI",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "name": "KANEKI",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "CHOCSON ",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+            "name": "ZEROMERCY",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "L24DTR",
@@ -293,387 +272,469 @@
       ]
     },
     {
-      "team_name": "The Mystery Machine",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
+      "team_name": "Team Mafia",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
       "team_players": [
        {
-          "name": "Megga",
+          "name": "Wicked",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "El Cinico",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Ovoide",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "@ M r P i e g g",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Esqui",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "Aui",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "MessiGordo",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "Kala",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        }
-      ]
-    },
-    {
-      "team_name": "Los Atiende Boludos",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
-      "team_players": [
-        {
-          "name": "Cervecero",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "mte",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
           "name": "MirkoSSJ",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
+          "name": "Jonathan",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "RikardoFort",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
           "name": "Ziwar",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "profesor",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "wisko",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "inno",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "pi xu short",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        }
-      ]
-    },
-    {
-      "team_name": "BRANCA TEAM",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-      "team_players": [
-        {
-          "name": "boogye",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "LighTTinch",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "DES",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "Tachibana",
+          "name": "Aui",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "George",
+          "name": "MessiMafia",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Kalaaa",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
       ]
     },
     {
-      "team_name": "Epiicenter",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
+      "team_name": "SKERES",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
       "team_players": [
         {
-          "name": "tottimon",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "El Perrito Malvado",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "alexis",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "fantastic",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "andino",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
-        },
-        {
-          "name": "Caprirk",
+          "name": "Charmander- ",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "cesar",
+          "name": "@ M r P i e g g",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Tularakita",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "1p7",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Neoxa-Rico-",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Like Sandpaper",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Sodkillthemall",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        }
+      ]
+    },
+    {
+      "team_name": "LIGHTNING +4 Tangos",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+      "team_players": [
+        {
+          "name": "Lightning",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Markuz!",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "correNTA",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "S L A Y E R",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "kadir imy",
+          "name": "Keepo <",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Porco Rex",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "maraboli",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Tatakae",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
+      "team_players": [
+        {
+          "name": "AntonyFM",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Lobo",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Edward Elric",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "SSJGSSJ",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "LETME",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
       ]
     },
     {
-      "team_name": "Papu y Los Papulines",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
+      "team_name": "EFECTO DIVINE",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
       "team_players": [
         {
-          "name": "Moya",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+          "name": "Daxas",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "Sánguche gg",
+          "name": "dgN",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Inno",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "mi",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Lice",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Old Dogs",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
+      "team_players": [
+        {
+          "name": "OD.PIGNAL",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.SRK",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.Gnozpin",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "OD.NikoGOD",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.FROM-TUCUMAN",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "OD.Taku.-",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        
+        {
+          "name": "OD.Cou2",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "OD.Cervecero",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+        }
+      ]
+    },
+    {
+      "team_name": "No Papus",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
+      "team_players": [
+        {
+          "name": "S4TVRN0",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Shariff",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Rucula",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "MDFK PIPI",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Nicobaby",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "El Papu",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        
+        {
+          "name": "El Cinico",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "BabySandwich",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
-        },
-        {
-          "name": "Papu",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "THC",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/cruzader_medal.png"
-        },
-        {
-          "name": "Marcuz",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "p3ricles",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/guardian_medal.png"
-        },
-        {
-          "name": "ayrtonZito",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
-        },
-        {
-          "name": "Cärita",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
         }
       ]
     },
-    {
-      "team_name": "Aldea Gaming",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
+       {
+      "team_name": "Lemuria",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
       "team_players": [
         {
-          "name": "Pignal",
+          "name": "z-ta",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Siarko",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "DirtyBoy-",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
-        },
-        {
-          "name": "Parker",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        }
-      ]
-    },
-    {
-      "team_name": "Cinder Wolves",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
-      "team_players": [
-        {
-          "name": "cHeloga",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
-        },
-        {
-          "name": "Radamantys",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Irving",
+          "name": "MarcE-",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
-          "name": "Kenny",
+          "name": "Dk3r",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Shukker",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         },
         {
-          "name": "depressive",
+          "name": "Zhen'",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Waster",
+          "name": "Radamanthys",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "ekhar",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "clancy_power",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        }
+       ]
+    },
+    {
+      "team_name": "FANTASMAS",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
+      "team_players": [
+        {
+          "name": "cHelO",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+        },
+        {
+          "name": "MemiTo..",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Tabu",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Oli",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "I'm short guys :C",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Butakita",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+         {
+          "name": "NaiWanWan",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/legend_medal.png"
+        },
+         {
+          "name": "SKD-X",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         }
       ]
     }
   ],
-  "tables": [
+   "tables": [
     [
       {
-        "team": "Gatitos Techeros Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/gatitos_techeros_gaming.png",
-        "games": 6,
-        "w": 6,
+        "team": "Gatitos Techeros",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
+        "games": 2,
+        "w": 2,
         "l": null,
         "d": null,
-        "puntos": 12
+        "puntos": 4
+      },
+      {
+        "team": "No papus",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
+        "games": 2,
+        "w": null,
+        "l": 1,
+        "d": 1,
+        "puntos": 1
+      },
+      {
+        "team": "Falta Envido",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
+        "games": 2,
+        "w": null,
+        "l": 1,
+        "d": 1,
+        "puntos": 1
       },
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 6,
-        "w": 2,
-        "l": 3,
-        "d": 1,
-        "puntos": 5
-      },
-      {
-        "team": "NoLegion",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png",
-        "games": 6,
-        "w": 2,
-        "l": 2,
-        "d": 2,
-        "puntos": 6
-      },
-      {
-        "team": "Anxiety",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/anxiety.png",
-        "games": 6,
-        "w": null,
-        "l": 6,
-        "d": null,
-        "puntos": 0
-      }      
-    ],
-    [      
-      {
-        "team": "BRANCA TEAM",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png",
-        "games": 6,
-        "w": 3,
-        "l": 2,
-        "d": 1,
-        "puntos": 7
-      },
-      {
-        "team": "Neennyz3000",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 6,
-        "w": 5,
-        "l": 1,
-        "d": null,
-        "puntos": 10
-      },
-      {
-      "team": "Veritas gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/neennyz3000.png",
-        "games": 6,
-        "w": 5,
-        "l": 1,
-        "d": null,
-        "puntos": 10
-      },
-      {
-        "team": "Papu y Los Papulines",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png",
-        "games": 6,
+        "games": 2,
         "w": 1,
-        "l": 5,
+        "l": 1,
         "d": null,
         "puntos": 2
       }
     ],
-    [
+    [  
       {
-        "team": "Epicenter",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/epicenter.png",
-        "games": 6,
-        "w": 5,
+        "team": "Veritas Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
+       "games": 2,
+        "w": null,
+        "l": 2,
+        "d": null,
+        "puntos": 0
+      },
+      {
+        "team": "Old Dogs",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
+        "games": 2,
+        "w": null,
+        "l": 1,
+        "d": 1,
+        "puntos": 1
+      },
+      {
+        "team": "Lemuria",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+        "games": 2,
+        "w": 1,
         "l": null,
         "d": 1,
-        "puntos": 11
-      },
-      {
-        "team": "Los Atiende Boludos",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/los_atiende_boludos.png",
-        "games": 6,
-        "w": 3,
-        "l": null,
-        "d": 3,
-        "puntos": 9
-      },
-      {
-        "team": "Cinder Wolves",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png",
-        "games": 6,
-        "w": null,
-        "l": 4,
-        "d": 2,
         "puntos": 3
       },
       {
-        "team": "The Rats",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png",
-        "games": 6,
+        "team": "Guerreros Z",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
+        "games": 2,
         "w": 2,
-        "l": 3,
-        "d": 1,
-        "puntos": 5
+        "l": null,
+        "d": null,
+        "puntos": 4
+     }
+    ],
+    [
+       {
+      "team": "Efecto Divine",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
+       "games": 2,
+        "w": 1,
+        "l": 1,
+        "d": null,
+        "puntos": 2
+       },
+       {
+        "team": "Tatakae",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
+        "games": 2,
+        "w": 1,
+        "l": 1,
+        "d": null,
+        "puntos": 2
+       },
+       {
+        "team": "Nymeria",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
+        "games": 3,
+        "w": 2,
+        "l": 1,
+        "d": null,
+        "puntos": 4
+      },
+      {
+        "team": "Team Mafia",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+        "games": 3,
+        "w": 1,
+        "l": 2,
+        "d": null,
+        "puntos": 2
       }
     ],
     [
-      {
-        "team": "Take the Rapier",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png",
-        "games": 6,
+       {
+        "team": "Lightning +4 Tangos",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+        "games": 3,
         "w": 2,
-        "l": 2,
-        "d": 2,
-        "puntos": 6
+        "l": 0,
+        "d": 1,
+        "puntos": 5
       },
       {
-        "team": "Aldea Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
-        "games": 6,
+        "team": "Fantasmas",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
+        "games": 3,
+        "w": 0,
+        "l": 3,
+        "d": null,
+        "puntos": 0
+      },
+      {
+        "team": "Skere",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
+        "games": 2,
         "w": 1,
-        "l": 5,
-        "d": 0,
-        "puntos": 2
-      },
-      {
-        "team": "nimerya",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/aldea_gaming.png",
-        "games": 6,
-        "w": 1,
-        "l": 5,
-        "d": 0,
-        "puntos": 2
-      },
-      {
-        "team": "The Mystery Machine",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png",
-        "games": 6,
-        "w": 2,
         "l": 1,
-        "d": 3,
-        "puntos": 7
+        "d": null,
+        "puntos": 2
+      },
+      {
+        "team": "The Rats",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
+        "games": 2,
+        "w": 1,
+        "l": null,
+        "d": 1,
+        "puntos": 3
       }
     ]
   ],
@@ -681,185 +742,81 @@
     [
       [
         {
-          "team": "Anxiety",
-          "resultado": 0
+          "team": "Gatitos Techeros",
+          "resultado": 2
         },
         {
-          "team": "NoLegion",
-          "resultado": 2
+          "team": "No Papus",
+          "resultado": 0
         }
       ],
       [
         {
-          "team": "Branca Team",
-          "resultado": 2
+          "team": "Falta Envido",
+          "resultado": 0
         },
         {
           "team": "Hydra E-Sport",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Neennyz3000",
-          "resultado": "0"
-        },
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": "2"
-        }
-      ],
-      [
-        {
-          "team": "Aldea Gaming",
-          "resultado": "0"
-        },
-        {
-          "team": "Epicenter",
-          "resultado": "2"
-        }
-      ],
-      [
-        {
-          "team": "Take the Rapier",
-          "resultado": 1
-        },
-        {
-          "team": "Los Atiende Boludos",
-          "resultado": 1
-        }
-      ],
-      [
-        {
-          "team": "The Rats",
-          "resultado": "1"
-        },
-        {
-          "team": "Cinder Wolves",
-          "resultado": "1"
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": 2
-        },
-        {
-          "team": "Anxiety",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "NoLegion",
-          "resultado": 1
-        },
-        {
-          "team": "Hydra E-Sport",
-          "resultado": 1
-        }
-      ],
-      [
-        {
-          "team": "Papu y Los Papulines",
-          "resultado": 0
-        },
-        {
-          "team": "Branca Team",
           "resultado": 2
         }
       ],
       [
         {
-          "team": "Cinder Wolves",
+          "team": "Veritas Gaming",
           "resultado": 0
         },
         {
-          "team": "Los Atiende Boludos",
-          "resultado": 2
+          "team": "Old Dogs",
+          "resultado": 0
         }
       ],
       [
         {
-          "team": "Epicenter",
+          "team": "Lemuria",
+          "resultado": 0
+        },
+        {
+          "team": "Guerreros Z",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Efecto Divine",
+          "resultado": 0
+        },
+        {
+          "team": "Tatakae",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Nymeria",
           "resultado": 2
+        },
+        {
+          "team": "Team Mafia",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Lightning + 4 tangos",
+          "resultado": 2
+        },
+        {
+          "team": "Fantasmas",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Skere",
+          "resultado": 0
         },
         {
           "team": "The Rats",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "The Mystery Machine",
-          "resultado": 1
-        },
-        {
-          "team": "Take the Rapier",
-          "resultado": 1
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Anxiety",
-          "resultado": 0
-        },
-        {
-          "team": "Nennyz3000",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Hydra E-Sport",
-          "resultado": 0
-        },
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "NoLegion",
-          "resultado": 2
-        },
-        {
-          "team": "Papu y Los Papulines",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Cinder Wolves",
-          "resultado": 1
-        },
-        {
-          "team": "The Mystery Machine",
-          "resultado": 1
-        }
-      ],
-      [
-        {
-          "team": "Los Atiende Boludos",
-          "resultado": 1
-        },
-        {
-          "team": "Epicenter",
-          "resultado": 1
-        }
-      ],
-      [
-        {
-          "team": "The Rats",
-          "resultado": 2
-        },
-        {
-          "team": "Aldea Gaming",
           "resultado": 0
         }
       ]
@@ -867,27 +824,89 @@
     [
       [
         {
-          "team": "Branca Team",
-          "resultado": 1
+          "team": "Gatitos Techeros",
+          "resultado": 0
         },
         {
-          "team": "NoLegion",
-          "resultado": 1
-        }
-      ],
-      [
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": 2
-        },
-        {
-          "team": "Papu y Los Papulines",
+          "team": "Falta Envido",
           "resultado": 0
         }
       ],
       [
         {
-          "team": "Nennyz3000",
+          "team": "No papus",
+          "resultado": 0
+        },
+        {
+          "team": "Hydra E-sport",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Veritas Gaming",
+          "resultado": 0
+        },
+        {
+          "team": "Lemuria",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Old Dogs",
+          "resultado": 0
+        },
+        {
+          "team": "Guerreros Z",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Efecto Divine",
+          "resultado": 2
+        },
+        {
+          "team": "Nymeria",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Tatakae",
+          "resultado": 2
+        },
+        {
+          "team": "Team Mafia",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Lightning +4 Tangos",
+          "resultado": 2
+        },
+        {
+          "team": "Skere",
+          "resultado": 0
+        }
+      ],
+      [
+        {
+          "team": "Fantasmas",
+          "resultado": 0
+        },
+        {
+          "team": "The Rats",
+          "resultado": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "team": "Gatitos Techeros",
           "resultado": 2
         },
         {
@@ -897,254 +916,108 @@
       ],
       [
         {
-          "team": "Aldea Gaming",
-          "resultado": 0
-        },
-        {
-          "team": "Los Atiende Boludos",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Epicenter",
-          "resultado": 2
-        },
-        {
-          "team": "The Mystery Machine",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Take the Rapier",
-          "resultado": 2
-        },
-        {
-          "team": "Cinder Wolves",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": 2
-        },
-        {
-          "team": "Branca Team",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Hydra E-sport",
-          "resultado": 2
-        },
-        {
-          "team": "Anxiety",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Papu y Los Papulines",
-          "resultado": 0
-        },
-        {
-          "team": "Nennyz3000",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Epicenter",
-          "resultado": 2
-        },
-        {
-          "team": "Take the Rapier",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Los Atiende Boludos",
-          "resultado": 2
-        },
-        {
-          "team": "The Rats",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "The Mystery Machine",
-          "resultado": 2
-        },
-        {
-          "team": "Aldea Gaming",
-          "resultado": 0
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Anxiety",
-          "resultado": 0
-        },
-        {
-          "team": "Papu y Los Papulines",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Nennyz3000",
-          "resultado": 2
-        },
-        {
-          "team": "Branca Team",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "NoLegion",
-          "resultado": 0
-        },
-        {
-          "team": "Gatitos Techeros Gaming",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Aldea Gaming",
-          "resultado": 0
-        },
-        {
-          "team": "Take the Rapier",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Cinder Wolves",
-          "resultado": 0
-        },
-        {
-          "team": "Epicenter",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "The Rats",
-          "resultado": 0
-        },
-        {
-          "team": "The Mystery Machine",
-          "resultado": 2
-        }
-      ]
-    ],
-    [
-      [
-        {
-          "team": "Branca Team",
-          "resultado": 2
-        },
-        {
-          "team": "Anxiety",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Nennyz3000",
-          "resultado": 2
-        },
-        {
-          "team": "NoLegion",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Papu y Los Papulines",
-          "resultado": 0
-        },
-        {
-          "team": "Hydra E-sport",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "Aldea Gaming",
-          "resultado": 2
-        },
-        {
-          "team": "Cinder Wolves",
-          "resultado": 0
-        }
-      ],
-      [
-        {
-          "team": "Take the Rapier",
-          "resultado": 0
-        },
-        {
-          "team": "The Rats",
-          "resultado": 2
-        }
-      ],
-      [
-        {
-          "team": "The Mystery Machine",
+          "team": "No papus",
           "resultado": 1
         },
         {
-          "team": "Los Atiende Boludos",
+          "team": "Falta Envido",
           "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "Veritas Gaming",
+          "resultado": 0
+        },
+        {
+          "team": "Guerreros Z",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Old Dogs",
+          "resultado": 1
+        },
+        {
+          "team": "Lemuria",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "Efecto Divine",
+          "resultado": 0
+        },
+        {
+          "team": "Team Mafia",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Tatakae",
+          "resultado": 0
+        },
+        {
+          "team": "Nymeria",
+          "resultado": 2
+        }
+      ],
+      [
+        {
+          "team": "Lightning +4 Tangos",
+          "resultado": 1
+        },
+        {
+          "team": "The Rats",
+          "resultado": 1
+        }
+      ],
+      [
+        {
+          "team": "Fantasmas",
+          "resultado": 0
+        },
+        {
+          "team": "Skere",
+          "resultado": 2
         }
       ]
     ]
   ],
  "elimination": [
     [
-      { "team_name": "Branca Team", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png", "win": false },
-      { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png", "win": true }
+      { "team_name": "1ro Grupo A", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "The Mystery Machine", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "win": true },
-      { "team_name": "Papu y los Papulines", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png", "win": false }
+      { "team_name": "2do Grupo A", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "NoLegion", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "win": false },
-      { "team_name": "Cinder Wolves", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "win": true }
+      { "team_name": "1ro Grupo B", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "Take the Rapier", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png", "win": false },
-      { "team_name": "Hydra E-sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": true }
-    ],
-   [
-      { "team_name": "Branca Team", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/branca_team.png", "win": false },
-      { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_rats_logo.png", "win": true }
+      { "team_name": "2do Grupo B", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "The Mystery Machine", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/the_mystery_machine.png", "win": true },
-      { "team_name": "Papu y los Papulines", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/papu_y_los_papulines.png", "win": false }
+      { "team_name": "1ro Grupo C", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "NoLegion", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/no_legion.png", "win": false },
-      { "team_name": "Cinder Wolves", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/cinder_wolves.png", "win": true }
+      { "team_name": "2do Grupo C", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "Take the Rapier", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/take_the_rapier.png", "win": false },
-      { "team_name": "Hydra E-sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": true }
+      { "team_name": "1ro Grupo D", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
+    ],
+    [
+      { "team_name": "2do Grupo D", "team_logo": "", "win": false },
+      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
     ]
   ],
   "lower_bracket": [
