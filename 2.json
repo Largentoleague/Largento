@@ -589,11 +589,11 @@
       {
         "team": "Gatitos Techeros",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-        "games": 2,
-        "w": 2,
+        "games": 3,
+        "w": 3,
         "l": null,
         "d": null,
-        "puntos": 4
+        "puntos": 6
       },
       {
         "team": "No papus",
@@ -607,9 +607,9 @@
       {
         "team": "Falta Envido",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
-        "games": 2,
+        "games": 3,
         "w": null,
-        "l": 1,
+        "l": 2,
         "d": 1,
         "puntos": 1
       },
@@ -645,20 +645,20 @@
       {
         "team": "Lemuria",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": null,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 4
       },
       {
         "team": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": 2,
+        "games": 3,
         "w": 2,
         "l": null,
-        "d": null,
-        "puntos": 4
+        "d": 1,
+        "puntos": 5
      }
     ],
     [
@@ -777,7 +777,7 @@
         },
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -825,7 +825,7 @@
       [
         {
           "team": "Gatitos Techeros",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Falta Envido",
