@@ -665,18 +665,18 @@
        {
       "team": "Efecto Divine",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
-       "games": 2,
-        "w": 1,
+       "games": 3,
+        "w": 2,
         "l": 1,
         "d": null,
-        "puntos": 2
+        "puntos": 4
        },
        {
         "team": "Tatakae",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
-        "l": 1,
+        "l": 2,
         "d": null,
         "puntos": 2
        },
@@ -783,7 +783,7 @@
       [
         {
           "team": "Efecto Divine",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Tatakae",
