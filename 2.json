@@ -721,20 +721,20 @@
       {
         "team": "Skere",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": 1,
-        "d": null,
-        "puntos": 2
+        "d": 1,
+        "puntos": 3
       },
       {
         "team": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": null,
-        "d": 1,
-        "puntos": 3
+        "d": 2,
+        "puntos": 4
       }
     ]
   ],
@@ -813,11 +813,11 @@
       [
         {
           "team": "Skere",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 1
         }
       ]
     ],
