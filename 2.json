@@ -598,11 +598,11 @@
       {
         "team": "No papus",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 1,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "team": "Falta Envido",
@@ -616,9 +616,9 @@
       {
         "team": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
-        "l": 1,
+        "l": 2,
         "d": null,
         "puntos": 2
       }
@@ -627,18 +627,18 @@
       {
         "team": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
-       "games": 2,
-        "w": null,
+       "games": 3,
+        "w": 1,
         "l": 2,
         "d": null,
-        "puntos": 0
+        "puntos": 2
       },
       {
         "team": "Old Dogs",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
-        "games": 2,
+        "games": 3,
         "w": null,
-        "l": 1,
+        "l": 2,
         "d": 1,
         "puntos": 1
       },
@@ -763,7 +763,7 @@
       [
         {
           "team": "Veritas Gaming",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Old Dogs",
@@ -835,7 +835,7 @@
       [
         {
           "team": "No papus",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Hydra E-sport",
