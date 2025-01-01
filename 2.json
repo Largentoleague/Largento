@@ -988,7 +988,7 @@
   ],
  "elimination": [
     [
-      { "team_name": "1ro Grupo A", "team_logo": "", "win": false },
+      { "team_name": "1ro grupoA", "team_logo": "", "win": false },
       { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
@@ -996,12 +996,12 @@
       { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "1ro Grupo B", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
+      { "team_name": "Guerreros Z", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "win": false },
+      { "team_name": "Falta Envido", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png", "win": false }
     ],
     [
-      { "team_name": "2do Grupo B", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo A", "team_logo": "", "win": false }
+      { "team_name": "Lemuria", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png", "win": false },
+      { "team_name": "Hydra E-Sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": false }
     ],
     [
       { "team_name": "1ro Grupo C", "team_logo": "", "win": false },
@@ -1012,12 +1012,12 @@
       { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "1ro Grupo D", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
+      { "team_name": "Lightning +4 Tangos", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "win": false },
+      { "team_name": "Team Mafia", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png", "win": false }
     ],
     [
-      { "team_name": "2do Grupo D", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo C", "team_logo": "", "win": false }
+      { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png", "win": false },
+      { "team_name": "Takatae", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "win": false }
     ]
   ],
   "lower_bracket": [
