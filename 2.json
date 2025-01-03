@@ -988,12 +988,12 @@
   ],
  "elimination": [
     [
-      { "team_name": "1ro grupoA", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
+      { "team_name": "Gatitos Techeros", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png", "win": false },
+      { "team_name": "Old Dogs", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "win": false }
     ],
     [
-      { "team_name": "2do Grupo A", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo B", "team_logo": "", "win": false }
+      { "team_name": "No Papus", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "win": false },
+      { "team_name": "Veritas Gaming", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png", "win": false }
     ],
     [
       { "team_name": "Guerreros Z", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "win": false },
@@ -1008,8 +1008,8 @@
       { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
     ],
     [
-      { "team_name": "2do Grupo C", "team_logo": "", "win": false },
-      { "team_name": "3ro/4to Grupo D", "team_logo": "", "win": false }
+      { "team_name": "Nymeria", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "win": true },
+      { "team_name": "Fantasmas", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas", "win": false }
     ],
     [
       { "team_name": "Lightning +4 Tangos", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "win": false },
