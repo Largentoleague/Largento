@@ -1050,10 +1050,10 @@
     [
       { "team_logo": "", "team_name": "Ganador llave A" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeria" },
-      { "team_logo": "", "team_name": "Ganador llave C" },
-      { "team_logo": "", "team_name": "Ganador llave G" },
-      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "No Papus": "Ganador llave C" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "team_name": "Ganador llave B" },
       { "team_logo": "", "team_name": "Ganador llave F" },
+      { "team_logo": "", "No Papus": "Ganador llave C" },
+      { "team_logo": "", "team_name": "Ganador llave G" },
       { "team_logo": "", "team_name": "Ganador llave D" },
       { "team_logo": "", "team_name": "Ganador llave H" }
     ],
