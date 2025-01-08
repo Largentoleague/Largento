@@ -996,7 +996,7 @@
       { "team_name": "Veritas Gaming", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png", "win": false }
     ],
     [
-      { "team_name": "Guerreros Z", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "win": false },
+      { "team_name": "Guerreros Z", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "win": true },
       { "team_name": "Falta Envido", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png", "win": false }
     ],
     [
@@ -1052,7 +1052,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeria" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "team_name": "No Papus" },
       { "team_logo": "", "team_name": "Ganador llave F" },
-      { "team_logo": "", "team_name": "Ganador llave C" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "team_name": "Guerreros Z" },
       { "team_logo": "", "team_name": "Ganador llave G" },
       { "team_logo": "", "team_name": "Ganador llave D" },
       { "team_logo": "", "team_name": "Ganador llave H" }
