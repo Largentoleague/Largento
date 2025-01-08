@@ -992,7 +992,7 @@
       { "team_name": "Old Dogs", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "win": false }
     ],
     [
-      { "team_name": "No Papus", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "win": false },
+      { "team_name": "No Papus", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "win": true },
       { "team_name": "Veritas Gaming", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png", "win": false }
     ],
     [
@@ -1050,7 +1050,7 @@
     [
       { "team_logo": "", "team_name": "Ganador llave A" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeria" },
-      { "team_logo": "", "team_name": "Ganador llave B" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "team_name": "No Papus" },
       { "team_logo": "", "team_name": "Ganador llave F" },
       { "team_logo": "", "team_name": "Ganador llave C" },
       { "team_logo": "", "team_name": "Ganador llave G" },
