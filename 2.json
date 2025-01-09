@@ -988,7 +988,7 @@
   ],
  "elimination": [
     [
-      { "team_name": "Gatitos Techeros", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png", "win": false },
+      { "team_name": "Gatitos Techeros", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png", "win": true },
       { "team_name": "Old Dogs", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "win": false }
     ],
     [
@@ -1048,7 +1048,7 @@
   ],
   "upper_bracket": [
     [
-      { "team_logo": "", "team_name": "Ganador llave A" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png", "team_name": "Gatitos Techeros" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeria" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "team_name": "No Papus" },
       { "team_logo": "", "team_name": "Ganador llave F" },
