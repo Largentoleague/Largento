@@ -1027,19 +1027,19 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png", "team_name": "Veritas Gaming" },
       { "team_logo": "", "team_name": "Perdedor llave F" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png","team_name": "Falta Envido" },
-      { "team_logo": "", "team_name": "Perdedor llave E" },
-      { "team_logo": "", "team_name": "Perdedor llave B" },
-      { "team_logo": "", "team_name": "Perdedor llave F" }
-    ],
-    [
-      { "team_logo": "", "team_name": "Perdedor llave C" },
-      { "team_logo": "", "team_name": "Perdedor llave G" },
-      { "team_logo": "", "team_name": "Perdedor llave D" },
-      { "team_logo": "", "team_name": "Perdedor llave H" },
-      { "team_logo": "", "team_name": "Perdedor llave C" },
       { "team_logo": "", "team_name": "Perdedor llave G" },
       { "team_logo": "", "team_name": "Perdedor llave D" },
       { "team_logo": "", "team_name": "Perdedor llave H" }
+    ],
+    [
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "team_name": "Old Dogs" },
+      { "team_logo": "", "team_name": "Loss llave 1 upper" },
+      { "team_logo": "", "team_name": "Win llave 2 lower" },
+      { "team_logo": "", "team_name": "Loss llave 2 upper" },
+      { "team_logo": "", "team_name": "Win llave 3 lower" },
+      { "team_logo": "", "team_name": "Loss llave 3 upper" },
+      { "team_logo": "", "team_name": "Win llave 4 lower" },
+      { "team_logo": "", "team_name": "Loss llave 4 upper" }
     ],
     [
       { "team_logo": "", "team_name": "" },
