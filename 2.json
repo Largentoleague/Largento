@@ -1033,25 +1033,25 @@
     ],
     [
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "team_name": "Old Dogs" },
-      { "team_logo": "", "team_name": "Loss llave 1 upper" },
-      { "team_logo": "", "team_name": "Win llave 2 lower" },
-      { "team_logo": "", "team_name": "Loss llave 2 upper" },
-      { "team_logo": "", "team_name": "Win llave 3 lower" },
-      { "team_logo": "", "team_name": "Loss llave 3 upper" },
-      { "team_logo": "", "team_name": "Win llave 4 lower" },
-      { "team_logo": "", "team_name": "Loss llave 4 upper" }
+      { "team_logo": "", "team_name": "Loss llave 1 up" },
+      { "team_logo": "", "team_name": "Win llave 2 low" },
+      { "team_logo": "", "team_name": "Loss llave 2 up" },
+      { "team_logo": "", "team_name": "Win llave 3 low" },
+      { "team_logo": "", "team_name": "Loss llave 3 up" },
+      { "team_logo": "", "team_name": "Win llave 4 low" },
+      { "team_logo": "", "team_name": "Loss llave 4 up" }
     ],
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Win llave 5 low" },
+      { "team_logo": "", "team_name": "Win llave 6 low" },
+      { "team_logo": "", "team_name": "Win llave 7 low" },
+      { "team_logo": "", "team_name": "Win llave 8 low" }
     ],
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Loss llave 5 up" },
+      { "team_logo": "", "team_name": "Win llave 9 low" },
+      { "team_logo": "", "team_name": "Loss llave 6 up" },
+      { "team_logo": "", "team_name": "Win llave 10 low" }
     ],
     [
       { "team_logo": "", "team_name": "" },
@@ -1073,16 +1073,16 @@
       { "team_logo": "", "team_name": "Ganador llave H" }
     ],
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Win llave 1" },
+      { "team_logo": "", "team_name": "Win llave 2" },
+      { "team_logo": "", "team_name": "Winn llave 3" },
+      { "team_logo": "", "team_name": "Win llave 4" }
     ],
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Win llave 5" },
+      { "team_logo": "", "team_name": "Win llave 6" }
     ],
-    [{ "team_logo": "", "team_name": "" }]
+    [{ "team_logo": "", "team_name": "Win llave 7" }]
   ],
   "final_bracket": [
     { "team_name": "", "team_logo": "", "win": false },
