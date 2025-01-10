@@ -1022,10 +1022,11 @@
   ],
   "lower_bracket": [
     [
-      {
-        "team_logo": "",
-        "team_name": "Perdedor llave A"
-      },
+      { "team_logo": "","team_name": "Perdedor llave A" },
+      { "team_logo": "", "team_name": "Perdedor llave E" },
+      { "team_logo": "", "team_name": "Perdedor llave B" },
+      { "team_logo": "", "team_name": "Perdedor llave F" },
+      { "team_logo": "","team_name": "Perdedor llave A" },
       { "team_logo": "", "team_name": "Perdedor llave E" },
       { "team_logo": "", "team_name": "Perdedor llave B" },
       { "team_logo": "", "team_name": "Perdedor llave F" }
@@ -1034,17 +1035,31 @@
       { "team_logo": "", "team_name": "Perdedor llave C" },
       { "team_logo": "", "team_name": "Perdedor llave G" },
       { "team_logo": "", "team_name": "Perdedor llave D" },
+      { "team_logo": "", "team_name": "Perdedor llave H" },
+      { "team_logo": "", "team_name": "Perdedor llave C" },
+      { "team_logo": "", "team_name": "Perdedor llave G" },
+      { "team_logo": "", "team_name": "Perdedor llave D" },
       { "team_logo": "", "team_name": "Perdedor llave H" }
     ],
     [
       { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" }
+    ],
+    [
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
+      { "team_logo": "", "team_name": "" },
       { "team_logo": "", "team_name": "" }
     ],
     [
       { "team_logo": "", "team_name": "" },
       { "team_logo": "", "team_name": "" }
     ],
-    [{ "team_logo": "", "team_name": "" }]
+    [
+      { "team_logo": "", "team_name": "" }
+    ]
   ],
   "upper_bracket": [
     [
