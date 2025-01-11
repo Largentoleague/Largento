@@ -1054,11 +1054,11 @@
       { "team_logo": "", "team_name": "Win llave 10 low" }
     ],
     [
-      { "team_logo": "", "team_name": "" },
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Sin ganador" },
+      { "team_logo": "", "team_name": "Sin ganador" }
     ],
     [
-      { "team_logo": "", "team_name": "" }
+      { "team_logo": "", "team_name": "Sin ganador" }
     ]
   ],
   "upper_bracket": [
