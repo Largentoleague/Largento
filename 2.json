@@ -1017,7 +1017,7 @@
     ],
     [
       { "team_name": "The Rats", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png", "win": false },
-      { "team_name": "Takatae", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "win": false }
+      { "team_name": "Takatae", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "win": true }
     ]
   ],
   "lower_bracket": [
@@ -1029,7 +1029,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png","team_name": "Falta Envido" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png", "team_name": "Team Mafia" },
       { "team_logo": "", "team_name": "Perdedor llave D" },
-      { "team_logo": "", "team_name": "Perdedor llave H" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png", "team_name": "The Rats" }
     ],
     [
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png", "team_name": "Old Dogs" },
@@ -1070,7 +1070,7 @@
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png", "team_name": "Guerreros Z" },
       { "team_logo": "Lightning +4 Tangos", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "team_name": "LIGHTNING+4 TANGOS" },
       { "team_logo": "", "team_name": "Ganador llave D" },
-      { "team_logo": "", "team_name": "Ganador llave H" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "team_name": "Tatakae" }
     ],
     [
       { "team_logo": "", "team_name": "Win llave 1" },
