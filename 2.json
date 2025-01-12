@@ -1001,7 +1001,7 @@
     ],
     [
       { "team_name": "Lemuria", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png", "win": false },
-      { "team_name": "Hydra E-Sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": false }
+      { "team_name": "Hydra E-Sport", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png", "win": true }
     ],
     [
       { "team_name": "Nymeria", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "win": true },
