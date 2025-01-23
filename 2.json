@@ -1071,14 +1071,14 @@
     ],
     [
       { "team_logo": "", "team_name": "Win llave 5 low" },
-      { "team_logo": "", "team_name": "Win llave 6 low" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png", "team_name": "No Papus" },
       { "team_logo": "", "team_name": "Win llave 7 low" },
       { "team_logo": "", "team_name": "Win llave 8 low" }
     ],
     [
       { "team_logo": "", "team_name": "Loss llave 5 up" },
       { "team_logo": "", "team_name": "Win llave 9 low" },
-      { "team_logo": "", "team_name": "Loss llave 6 up" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "team_name": "Tatakae" },
       { "team_logo": "", "team_name": "Win llave 10 low" }
     ],
     [
@@ -1108,7 +1108,7 @@
     ],
     [
       { "team_logo": "", "team_name": "Win llave 5" },
-      { "team_logo": "", "team_name": "Win llave 6" }
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "team_name": "LIGHTNING+4 TANGOS" }
     ],
     [{ "team_logo": "", "team_name": "Win llave 7" }]
   ],
