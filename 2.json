@@ -1077,9 +1077,13 @@
     ],
     [
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png", "team_name": "Efecto Divine" },
-      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeri" },
+      { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png", "team_name": "Nymeria" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png", "team_name": "Tatakae" },
       { "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png", "team_name": "Team Mafia" }
+    ],
+    [
+      { "team_logo": "", "team_name": "Sin ganador" },
+      { "team_logo": "", "team_name": "Sin ganador" }
     ],
     [
       { "team_logo": "", "team_name": "Sin ganador" },
