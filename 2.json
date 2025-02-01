@@ -1090,7 +1090,7 @@
       { "team_logo": "", "team_name": "Sin ganador" }
     ],
     [
-      { "team_logo": "sin ganador", "team_name": "Sin ganador" }
+      { "team_logo": "", "team_name": "Sin ganador" }
     ]
   ],
   "upper_bracket": [
@@ -1117,7 +1117,7 @@
     [{ "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "team_name": "LIGHTNING + 4 TANGOS" }]
   ],
   "final_bracket": [
-    { "team_name": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "team_logo": "LIGHTNING + 4 TANGOS", "win": false },
+    { "team_name": "LIGHTNING + 4 TANGOS", "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png", "win": false },
     { "team_name": "", "team_logo": "", "win": false }
   ]
 }
