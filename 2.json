@@ -641,6 +641,112 @@
         }
        ]
     },
+      {
+      "team_name": "Branca Team",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+      "team_players": [
+        {
+          "name": "LighTTinch",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Tachibana",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "George",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "SamusPrime",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Qatar",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "ElPerritoMalvado",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        },
+        {
+          "name": "Cuca Power",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arconte_medal.png"
+        },
+        {
+          "name": "Arave",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        }
+       ]
+    },
+      {
+      "team_name": "Windfury Enjoyers",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+      "team_players": [
+        {
+          "name": "Prilou",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Exspec",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "SDpeco",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "furry",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Tomate",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Haans",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+        }
+       ]
+    },
+      {
+      "team_name": "DREAM",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+      "team_players": [
+        {
+          "name": "PABLO",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "nickname : ))",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Lice",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "dx1",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "SGG",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Reyf",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "goku",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Bilu",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        }
+       ]
+    },
     {
       "team_name": "FANTASMAS",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
