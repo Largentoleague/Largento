@@ -167,7 +167,7 @@
         },
         {
           "name": "ik",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/inmortal_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "4imer",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "team_name": "EFECTO DIVINE",
+      "team_name": "3FECTO DIVINE",
       "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
       "team_players": [
         {
@@ -417,11 +417,11 @@
         },
         {
           "name": "3mpty",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/inmortal_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "Daxas",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/inmortal_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "Luleh",
@@ -443,7 +443,7 @@
         },
         {
           "name": "DLV",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/inmortal_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "NikoGOD",
@@ -671,7 +671,7 @@
         },
         {
           "name": "Cuca Power",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arconte_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
         },
         {
           "name": "Arave",
@@ -786,7 +786,7 @@
     [
       {
         "team": "Gatitos Techeros",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Torada 3/gatitos.png",
         "games": null,
         "w": null,
         "l": null,
