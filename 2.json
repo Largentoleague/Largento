@@ -578,27 +578,27 @@
        ]
     },
       {
-      "team_name": "Vixen Magic",
-      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/VixenFury.png",
+      "team_name": "Guerreros Z",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
       "team_players": [
         {
-          "name": "Mile-Mile",
+          "name": "Profesor",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+        },
+        {
+          "name": "Cinico",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Burbuja",
+          "name": "Aui",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Fahrenheit",
+          "name": "Trujillo",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Lykke.",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
-        },
-        {
-          "name": "Shappire",
+          "name": "Nico",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
        ]
@@ -895,8 +895,8 @@
         "puntos": null
       },
       {
-        "name": "Vixen Magic",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/VixenFury.png",
+        "name": "Guerreros Z",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
         "games": null,
         "w": null,
         "l": null,
