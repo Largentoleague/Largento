@@ -839,20 +839,20 @@
       {
         "name": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Logo Veritas Gaming.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Team Server",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Carpinchos Rage",
@@ -1047,11 +1047,11 @@
         [
         {
           "team": "Team Server",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Veritas Gaming",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
