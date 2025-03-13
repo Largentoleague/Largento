@@ -904,11 +904,11 @@
        {
       "name": "Lemuria",
       "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/lemuria (1).png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Guerreros Z",
@@ -922,9 +922,9 @@
       {
         "name": "Windfury Enjoyers",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/windfury.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": null
       },
@@ -967,11 +967,11 @@
       {
         "name": "La Gatoneta",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "3FECTO DIVINE",
@@ -985,11 +985,11 @@
       {
         "name": "Aldea Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "The Orphans",
@@ -1057,11 +1057,11 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 1
         }
       ],
        [
@@ -1097,7 +1097,7 @@
       [
         {
           "team": "La Gatoneta",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Windfury Enjoyers",
