@@ -1,0 +1,98 @@
+[
+    [
+        {
+            "team_name": "Gatitos Techeros",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
+            "win": true
+        },
+        {
+            "team_name": "Old Dogs",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "No Papus",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
+            "win": true
+        },
+        {
+            "team_name": "Veritas Gaming",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/Veritas_Gaming.png",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "Guerreros Z",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
+            "win": true
+        },
+        {
+            "team_name": "Falta Envido",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/FALTA_ENVIDO.png",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "Lemuria",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/lemuria.png",
+            "win": false
+        },
+        {
+            "team_name": "Hydra E-Sport",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
+            "win": true
+        }
+    ],
+    [
+        {
+            "team_name": "Nymeria",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
+            "win": true
+        },
+        {
+            "team_name": "Fantasmas",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/fantasmas",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "Efecto Divine",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
+            "win": true
+        },
+        {
+            "team_name": "Skeres",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "Lightning +4 Tangos",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
+            "win": true
+        },
+        {
+            "team_name": "Team Mafia",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+            "win": false
+        }
+    ],
+    [
+        {
+            "team_name": "The Rats",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
+            "win": false
+        },
+        {
+            "team_name": "Takatae",
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
+            "win": true
+        }
+    ]
+]

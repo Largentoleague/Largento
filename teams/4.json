@@ -1,0 +1,762 @@
+[
+    {
+        "team_name": "The Rats",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
+        "team_players": [
+            {
+                "name": "Vitaly!",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Rico",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Beto",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Celo",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Just Magnus",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "CRISTHIAN",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Wrwr",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Tsptheslayer",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Veritas Gaming",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Logo Veritas Gaming.png",
+        "team_players": [
+            {
+                "name": "ForceAken",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Elefantito",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
+            },
+            {
+                "name": "Deprexnano",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "El Papu",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "TOP",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "LA Lakers",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
+        "team_players": [
+            {
+                "name": "Worlock",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Andino",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Giulinho",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Shifu",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Z-TA",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SyndraMoon",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Porco Rex",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Hydra E-sport",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
+        "team_players": [
+            {
+                "name": "hawkeye",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Edward Elric",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "kid",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Subra",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "El Alessi™",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "<blank>",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "onfi",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Who is Ari?",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Sushi Boy",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
+        "team_players": [
+            {
+                "name": "picado",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "ik",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "4imer",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "MoneyForNoth1ng",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "DLC",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Radamanthys",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "ziwar",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "rama",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "La Gatoneta",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
+        "team_players": [
+            {
+                "name": "Un Gato",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "NTW",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Chelo",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Franco.Scty",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "KABUTO",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "zhin",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Puntito",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Jugo Cagoneta",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "The raw chickens",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
+        "team_players": [
+            {
+                "name": "Thenewpipi",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "ZeroMercy.자비",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "kaiser",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "the fat b-k1",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "L24DTR-T",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Players Libres",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
+        "team_players": [
+            {
+                "name": "Sandevistan",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "frizolini",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "SHIRO",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Tabu",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Zancrow",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "DeSerT",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Khantus",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Wicked",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Black holes",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
+        "team_players": [
+            {
+                "name": "Fuckreplay",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": ".Insane",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Buho",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Deux-",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "kise",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "AS_Dance",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/as dance.jpeg",
+        "team_players": [
+            {
+                "name": "Ashlom",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Knk",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "DinoDance",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Woody",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Sacha",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Hari",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Fullback",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "elMatute",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Team Server",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
+        "team_players": [
+            {
+                "name": "2is",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Walterms",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SICK TUFI",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "EL PIBE ÚTIL",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "_55",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "RePiola",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Mac Tonight",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Zero",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "3FECTO DIVINE",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
+        "team_players": [
+            {
+                "name": "Miru",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "dgN",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Inno",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "3mpty",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Daxas",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Luleh",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Aldea Gaming",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
+        "team_players": [
+            {
+                "name": "PIGNAL",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "DirtyBoy-",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "DLV",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "NikoGOD",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "FROM-TUCUMAN",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Taku.-",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Cou2",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "siarko",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "The Orphans",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
+        "team_players": [
+            {
+                "name": "S4TVRN0",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Hito",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Rucula",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Jhardel",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Emilia Mernes",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Cervecero",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Haru",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SangucheGG",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/arcont_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Lemuria",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/lemuria (1).png",
+        "team_players": [
+            {
+                "name": "TheCrusher666",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Fox",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Dk3r",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "sayonara",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Zhen'",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Hermit",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "ekhar",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "clancy_power",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Carpinchos Rage",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Carpincho enojado.png",
+        "team_players": [
+            {
+                "name": "iba",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "GaRaF",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Lighto",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Lulu",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Nov[A]to/Sammy",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "EU",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Ovoide",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Guerreros Z",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
+        "team_players": [
+            {
+                "name": "Profesor",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Cinico",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Aui",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Trujillo",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Nico",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Children of the Corn",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the crow.png",
+        "team_players": [
+            {
+                "name": "Rigan",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Zurdo",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "RampaGeee",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "NikeGG",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Wij",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Merlino",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "FTD",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Kanishka",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Branca Team",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
+        "team_players": [
+            {
+                "name": "LighTTinch",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Tachibana",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "George",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "SamusPrime",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Qatar",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "ElPerritoMalvado",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Cuca Power",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "Arave",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "Windfury Enjoyers",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/windfury.png",
+        "team_players": [
+            {
+                "name": "Prilou",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Exspec",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SDpeco",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "furry",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Tomate",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "Haans",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "DREAM",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/dream logo def.png",
+        "team_players": [
+            {
+                "name": "PABLO",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "nickname : ))",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Lice",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
+            },
+            {
+                "name": "dx1",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SGG",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Reyf",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "goku",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Bilu",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    },
+    {
+        "team_name": "FANTASMAS",
+        "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
+        "team_players": [
+            {
+                "name": "MDFk PiPi",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+            },
+            {
+                "name": "KTZ",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "adachijke",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Fumigator",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "iroha'",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "Pixulong",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            },
+            {
+                "name": "SKD-X",
+                "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+            }
+        ]
+    }
+]
