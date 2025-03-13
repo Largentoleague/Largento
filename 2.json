@@ -577,7 +577,7 @@
         },
         {
           "name": "Ovoide",
-          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/ancient_medal.png"
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         }
        ]
     },
@@ -602,8 +602,20 @@
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
-          "name": "Nico",
+          "name": "Shariff",
           "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Mza-KobEE",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "ElChuek",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+        },
+        {
+          "name": "Nico",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/divine_medal.png"
         }
        ]
     },
