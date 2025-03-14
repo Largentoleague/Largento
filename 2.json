@@ -803,11 +803,11 @@
       {
         "name": "AS_Dance",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/as dance.jpeg",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 0
       },
       {
         "name": "The Rats",
@@ -884,11 +884,11 @@
       {
         "name": "Children of the Corn",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the crow.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "Hydra E-sport",
@@ -1027,7 +1027,7 @@
       [
         {
           "team": "Children of the Corn",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "AS_Dance",
