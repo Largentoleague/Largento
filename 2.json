@@ -6,12 +6,12 @@
       "label": "Estructura de la fase de grupos",
       "icon": "i-heroicons-information-circle",
       "defaultOpen": true,
-      "content": "La fase de grupos se compondrá por 2 grupos de 11 equipos, se jugaran 11 fechas. Como regla general, los equipos deberán coordinar sus cruces entre los capitanes."
+      "content": "La fase de grupos se compondrá por 2 grupos de 11 equipos, se jugaran 11 fechas. Como regla general, los equipos deberán coordinar sus cruces entre los capitanes. Del puesto 1ro al 4to pasaran a la Upper, del puesto 5to al 8vo a la lower y del 9no al 11vo serán eliminados de la liga."
     },
     {
       "label": "Coordinación de partidas",
       "icon": "i-heroicons-arrow-down-tray",
-      "content": "Las partidas entre semana se disputarán a libre elección entre los capitanes durante el lunes al domingo. Si los capitanes no coordinan su respectiva fecha, se jugará como predeterminado el día domingo (horario a determinar por el staff). Del puesto 1ro al 4to pasaran a la Upper, del puesto 5to al 8vo a la lower y del 9no al 11vo serán eliminados de la liga."
+      "content": "Las partidas entre semana se disputarán a libre elección entre los capitanes durante el lunes al domingo. Si los capitanes no coordinan su respectiva fecha, se jugará como predeterminado el día domingo (horario a determinar por el staff)."
     },
     {
       "label": "Fase de clasificación",
