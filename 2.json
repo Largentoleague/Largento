@@ -940,20 +940,20 @@
       {
         "name": "Fantasmas",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": null
       },
       {
         "name": "DREAM",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/dream logo def.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "Branca Team",
@@ -1077,7 +1077,7 @@
       [
         {
           "team": "DREAM",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Fantasmas",
