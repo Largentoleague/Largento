@@ -812,11 +812,11 @@
       {
         "name": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "The raw chickens",
@@ -875,9 +875,9 @@
       {
         "name": "Players Libres",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": null
       },
@@ -1041,7 +1041,7 @@
         },
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 2
         }
       ],
         [
