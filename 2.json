@@ -866,11 +866,11 @@
       {
       "name": "Black holes",
       "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "Players Libres",
@@ -994,9 +994,9 @@
       {
         "name": "The Orphans",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": null
       }
@@ -1007,7 +1007,7 @@
       [
         {
           "team": "Black Holes",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "The raw chickens",
