@@ -830,9 +830,9 @@
       {
         "name": "Sushi Boy",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": null
       },
@@ -857,11 +857,11 @@
       {
         "name": "Carpinchos Rage",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Carpincho enojado.png",
-        "games": null,
-        "w": null,
+        "games": 1,
+        "w": 1,
         "l": null,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
       "name": "Black holes",
@@ -913,11 +913,11 @@
       {
         "name": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": null,
+        "games": 1,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 1
       },
       {
         "name": "Windfury Enjoyers",
@@ -976,11 +976,11 @@
       {
         "name": "3FECTO DIVINE",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Aldea Gaming",
@@ -1017,7 +1017,7 @@
       [
         {
           "team": "Carpinchos Rage",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Sushi Boy",
@@ -1087,11 +1087,11 @@
       [
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
