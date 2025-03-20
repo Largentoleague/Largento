@@ -915,8 +915,8 @@
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
         "games": 2,
         "w": 1,
-        "l": 1,
-        "d": null,
+        "l": null,
+        "d": 1,
         "puntos": 3
       },
       {
