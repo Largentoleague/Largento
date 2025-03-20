@@ -821,11 +821,11 @@
       {
         "name": "The raw chickens",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": 1,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Sushi Boy",
@@ -848,11 +848,11 @@
       {
         "name": "Team Server",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": null,
         "d": 1,
-        "puntos": 1
+        "puntos": 2
       },
       {
         "name": "Carpinchos Rage",
@@ -931,20 +931,20 @@
       {
         "name": "LA Lakers",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
-        "games": 1,
+        "games": 2,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": null,
         "puntos": 2
       },
       {
         "name": "Fantasmas",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "DREAM",
@@ -976,11 +976,11 @@
       {
         "name": "3FECTO DIVINE",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": null,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "name": "Aldea Gaming",
@@ -1139,11 +1139,11 @@
       [
         {
           "team": "The raw chickens",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Team Server",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -1159,7 +1159,7 @@
       [
         {
           "team": "Fantasmas",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "LA Lakers",
@@ -1193,7 +1193,7 @@
         },
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
