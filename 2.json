@@ -89,13 +89,13 @@
         }
       ]
     },
-      {	
-          "team_name":	"LA Lakers",
-          "team_logo":	"https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png",
-          "team_players": [	
-        {	
-          "name":	"Worlock",
-          "range":	"https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
+      {
+      "team_name": "LA Lakers",
+      "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
+      "team_players": [
+        {
+          "name": "Worlock",
+          "range": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/medals/immortal_medal.png"
         },
         {
           "name": "Andino",
