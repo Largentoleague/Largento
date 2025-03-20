@@ -904,69 +904,42 @@
        {
       "name": "Lemuria",
       "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/lemuria (1).png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 1,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "name": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": 1,
         "d": null,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "name": "Windfury Enjoyers",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/windfury.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 2
       },
       {
         "name": "LA Lakers",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
-        "games": 2,
-        "w": 1,
+        "games": 3,
+        "w": 2,
         "l": 1,
         "d": null,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "name": "Fantasmas",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
-        "games": 2,
-        "w": 1,
-        "l": 1,
-        "d": null,
-        "puntos": 2
-      },
-      {
-        "name": "DREAM",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/dream logo def.png",
-        "games": 1,
-        "w": 1,
-        "l": null,
-        "d": null,
-        "puntos": 2
-      },
-      {
-        "name": "Branca Team",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
-        "games": 1,
-        "w": null,
-        "l": 1,
-        "d": null,
-        "puntos": null
-      },
-      {
-        "name": "La Gatoneta",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
         "games": 2,
         "w": 2,
         "l": null,
@@ -974,8 +947,44 @@
         "puntos": 4
       },
       {
+        "name": "DREAM",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/dream logo def.png",
+        "games": 10,
+        "w": null,
+        "l": 10,
+        "d": null,
+        "puntos": null
+      },
+      {
+        "name": "Branca Team",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
+        "games": 2,
+        "w": 1,
+        "l": 1,
+        "d": null,
+        "puntos": 2
+      },
+      {
+        "name": "La Gatoneta",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
+        "games": 3,
+        "w": 3,
+        "l": null,
+        "d": null,
+        "puntos": 6
+      },
+      {
         "name": "3FECTO DIVINE",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
+        "games": 3,
+        "w": 2,
+        "l": null,
+        "d": 1,
+        "puntos": 5
+      },
+      {
+        "name": "Aldea Gaming",
+        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
         "games": 2,
         "w": 1,
         "l": null,
@@ -983,22 +992,13 @@
         "puntos": 3
       },
       {
-        "name": "Aldea Gaming",
-        "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
-        "games": 1,
-        "w": null,
-        "l": null,
-        "d": 1,
-        "puntos": 1
-      },
-      {
         "name": "The Orphans",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": 1,
         "d": null,
-        "puntos": null
+        "puntos": 2
       }
     ]
   ],
@@ -1077,11 +1077,11 @@
       [
         {
           "team": "DREAM",
-          "resultado": 2
+          "resultado": 0
         },
         {
           "team": "Fantasmas",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1199,7 +1199,7 @@
       [
         {
           "team": "Windfury Enjoyers",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "DREAM",
@@ -1275,7 +1275,7 @@
         },
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1363,7 +1363,7 @@
       [
         {
           "team": "Aldea Gaming",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Dream",
@@ -1469,7 +1469,7 @@
         },
         {
           "team": "La Gatoneta",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1679,7 +1679,7 @@
       [
         {
           "team": "LA Lakers",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Dream",
@@ -1795,7 +1795,7 @@
         },
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1913,7 +1913,7 @@
       [
         {
           "team": "The Orphans",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Dream",
@@ -1979,7 +1979,7 @@
         },
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -2087,7 +2087,7 @@
       [
         {
           "team": "Branca Team",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Dream",
