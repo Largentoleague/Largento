@@ -830,11 +830,11 @@
       {
         "name": "Sushi Boy",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": 1,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Veritas Gaming",
@@ -866,9 +866,9 @@
       {
       "name": "Black holes",
       "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 3
       },
@@ -994,11 +994,11 @@
       {
         "name": "The Orphans",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
-        "games": 2,
+        "games": 3,
         "w": 1,
         "l": 1,
-        "d": null,
-        "puntos": 2
+        "d": 1,
+        "puntos": 3
       }
     ]
   ],
@@ -1215,7 +1215,7 @@
         },
         {
           "team": "Children of the Corn",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1231,11 +1231,11 @@
       [
         {
           "team": "Sushi Boy",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "The raw chickens",
-          "resultado": 0
+          "resultado": 1
         }
       ],
        [
