@@ -875,11 +875,11 @@
       {
         "name": "Players Libres",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": 1,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       },
       {
         "name": "Children of the Corn",
@@ -893,11 +893,11 @@
       {
         "name": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-        "games": null,
+        "games": 1,
         "w": null,
         "l": null,
-        "d": null,
-        "puntos": null
+        "d": 1,
+        "puntos": 1
       }
     ],
     [
@@ -958,16 +958,16 @@
       {
         "name": "Branca Team",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
-        "games": 2,
-        "w": 1,
+        "games": 4,
+        "w": 3,
         "l": 1,
         "d": null,
-        "puntos": 2
+        "puntos": 6
       },
       {
         "name": "La Gatoneta",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-        "games": 4,
+        "games": 6,
         "w": 3,
         "l": null,
         "d": 1,
@@ -996,8 +996,8 @@
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
         "games": 3,
         "w": 1,
-        "l": 1,
-        "d": 1,
+        "l": 2,
+        "d": null,
         "puntos": 3
       }
     ]
@@ -1119,11 +1119,11 @@
        [
         {
           "team": "Hydra E-sport",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Players Libres",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -1173,7 +1173,7 @@
         },
         {
           "team": "Branca Team",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -1261,7 +1261,7 @@
       [
         {
           "team": "Branca Team",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "The Orphans",
