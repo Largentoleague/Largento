@@ -913,9 +913,9 @@
       {
         "name": "Guerreros Z",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-        "games": 3,
+        "games": 4,
         "w": 1,
-        "l": null,
+        "l": 1,
         "d": 2,
         "puntos": 4
       },
