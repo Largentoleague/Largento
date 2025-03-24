@@ -803,20 +803,20 @@
       {
         "name": "AS_Dance",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/as dance.jpeg",
-        "games": 2,
+        "games": 3,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": 2,
         "puntos": 2
       },
       {
         "name": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": 1,
-        "w": 1,
+        "games": 2,
+        "w": 2,
         "l": null,
         "d": null,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "name": "The raw chickens",
@@ -839,29 +839,29 @@
       {
         "name": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Logo Veritas Gaming.png",
-        "games": 1,
+        "games": 2,
         "w": null,
-        "l": null,
+        "l": 1,
         "d": 1,
         "puntos": 1
       },
       {
         "name": "Team Server",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": null,
         "d": 2,
-        "puntos": 2
+        "puntos": 4
       },
       {
         "name": "Carpinchos Rage",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Carpincho enojado.png",
-        "games": 1,
+        "games": 2,
         "w": 1,
         "l": null,
-        "d": null,
-        "puntos": 2
+        "d": 1,
+        "puntos": 3
       },
       {
       "name": "Black holes",
@@ -893,11 +893,11 @@
       {
         "name": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-        "games": 1,
+        "games": 2,
         "w": null,
         "l": null,
-        "d": 1,
-        "puntos": 1
+        "d": 2,
+        "puntos": 2
       }
     ],
     [
@@ -967,7 +967,7 @@
       {
         "name": "La Gatoneta",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-        "games": 6,
+        "games": 4,
         "w": 3,
         "l": null,
         "d": 1,
@@ -1221,11 +1221,11 @@
       [
         {
           "team": "Carpinchos Rage",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Hydra E-sport",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -1241,7 +1241,7 @@
        [
         {
           "team": "Team Server",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "AS_Dance",
@@ -1255,7 +1255,7 @@
         },
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
