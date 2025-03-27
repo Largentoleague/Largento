@@ -884,11 +884,11 @@
       {
         "name": "Children of the Corn",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the crow.png",
-        "games": 1,
-        "w": null,
+        "games": 2,
+        "w": 1,
         "l": null,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "name": "Hydra E-sport",
