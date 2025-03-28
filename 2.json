@@ -812,20 +812,20 @@
       {
         "name": "The Rats",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-        "games": 3,
+        "games": 4,
         "w": 2,
-        "l": 1,
+        "l": 2,
         "d": null,
         "puntos": 4
       },
       {
         "name": "The raw chickens",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": 1,
         "d": 1,
-        "puntos": 1
+        "puntos": 3
       },
       {
         "name": "Sushi Boy",
@@ -839,9 +839,9 @@
       {
         "name": "Veritas Gaming",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Logo Veritas Gaming.png",
-        "games": 3,
+        "games": 4,
         "w": null,
-        "l": 2,
+        "l": 3,
         "d": 1,
         "puntos": 1
       },
@@ -893,11 +893,11 @@
       {
         "name": "Hydra E-sport",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-        "games": 2,
-        "w": null,
+        "games": 3,
+        "w": 1,
         "l": null,
         "d": 2,
-        "puntos": 2
+        "puntos": 4
       }
     ],
     [
@@ -994,7 +994,7 @@
       {
         "name": "The Orphans",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
-        "games": 3,
+        "games": 4,
         "w": 1,
         "l": 2,
         "d": null,
@@ -1333,7 +1333,7 @@
       [
         {
           "team": "Hydra E-sport",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Veritas Gaming",
@@ -1353,7 +1353,7 @@
       [
         {
           "team": "The raw chickens",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "The Rats",
