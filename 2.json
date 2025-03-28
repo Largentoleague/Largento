@@ -958,11 +958,11 @@
       {
         "name": "Branca Team",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
-        "games": 4,
-        "w": 3,
+        "games": 5,
+        "w": 4,
         "l": 1,
         "d": null,
-        "puntos": 6
+        "puntos": 8
       },
       {
         "name": "La Gatoneta",
@@ -976,11 +976,11 @@
       {
         "name": "3FECTO DIVINE",
         "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-        "games": 3,
+        "games": 4,
         "w": 2,
         "l": null,
-        "d": 1,
-        "puntos": 5
+        "d": 2,
+        "puntos": 6
       },
       {
         "name": "Aldea Gaming",
@@ -1373,11 +1373,11 @@
       [
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Branca Team",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
