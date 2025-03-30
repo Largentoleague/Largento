@@ -3,7 +3,7 @@
         "label": "Estructura de la fase de grupos",
         "icon": "i-heroicons-information-circle",
         "defaultOpen": true,
-        "content": "La fase de grupos se compondrá por 4 grupos de 4 equipos, se jugaran 3 fechas. Como regla general, los equipos deberán coordinar sus cruces con los demás capitanes."
+        "content": "La fase de grupos se compondrá por 2 grupos de 11 equipos, se jugaran 11 fechas. Como regla general, los equipos deberán coordinar sus cruces entre los capitanes. Del puesto 1ro al 4to pasaran a la Upper, del puesto 5to al 8vo a la lower y del 9no al 11vo serán eliminados de la liga. En caso de empate en puntos, se jugara bo1 para definir el puesto de los equipos.."
     },
     {
         "label": "Coordinación de partidas",
@@ -13,7 +13,7 @@
     {
         "label": "Fase de clasificación",
         "icon": "i-heroicons-arrow-down-tray",
-        "content": "En esta fase se determinara que equipos pasan a la upper o a la lower en main event, para eso se jugara un cruce bo3. Los cruces se determinaran entre el 1ro del grupo A vs el 3ro o el 4to del grupo B (según cual elija el 1ro del grupo A), el 2do del grupo B jugara contra el 3ro o 4to grupo B. Misma lojica para los grupos C y D."
+        "content": "En la actual season, no se realizara una fase eliminatoria/clasificatoria."
     },
     {
         "label": "Notificación de cruces",
