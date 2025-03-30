@@ -3,9 +3,9 @@
         {
             "name": "AS_Dance",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/as dance.jpeg",
-            "games": 3,
+            "games": 4,
             "w": null,
-            "l": 1,
+            "l": 2,
             "d": 2,
             "puntos": 2
         },
@@ -30,11 +30,11 @@
         {
             "name": "Sushi Boy",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
-            "games": 3,
-            "w": 1,
+            "games": 4,
+            "w": 2,
             "l": 1,
             "d": 1,
-            "puntos": 3
+            "puntos": 5
         },
         {
             "name": "Veritas Gaming",
