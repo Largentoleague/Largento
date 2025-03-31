@@ -57,9 +57,9 @@
         {
             "name": "Carpinchos Rage",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Carpincho enojado.png",
-            "games": 3,
+            "games": 4,
             "w": 2,
-            "l": null,
+            "l": 1,
             "d": 1,
             "puntos": 5
         },
@@ -75,11 +75,11 @@
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 2,
-            "w": null,
+            "games": 3,
+            "w": 1,
             "l": 1,
             "d": 1,
-            "puntos": 1
+            "puntos": 3
         },
         {
             "name": "Children of the Corn",
