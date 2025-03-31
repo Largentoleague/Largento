@@ -104,38 +104,38 @@
         {
             "name": "Lemuria",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/lemuria (1).png",
-            "games": 3,
+            "games": 4,
             "w": 1,
-            "l": 1,
+            "l": 2,
             "d": 1,
             "puntos": 3
         },
         {
             "name": "Guerreros Z",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "games": 4,
+            "games": 5,
             "w": 1,
             "l": 1,
-            "d": 2,
-        "puntos": 4
+            "d": 3,
+        "puntos": 5
         },
         {
             "name": "Windfury Enjoyers",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/windfury.png",
-            "games": 3,
+            "games": 4,
             "w": 1,
             "l": 2,
-            "d": null,
-            "puntos": 2
+            "d": 1,
+            "puntos": 3
         },
         {
             "name": "LA Lakers",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
-            "games": 4,
-            "w": 3,
+            "games": 5,
+            "w": 4,
             "l": 1,
             "d": null,
-            "puntos": 6
+            "puntos": 8
         },
         {
             "name": "Fantasmas",
