@@ -21,11 +21,11 @@
         {
             "name": "The raw chickens",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
-            "games": 3,
+            "games": 4,
             "w": 1,
             "l": 1,
-            "d": 1,
-            "puntos": 3
+            "d": 2,
+            "puntos": 4
         },
         {
             "name": "Sushi Boy",
