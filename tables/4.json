@@ -39,9 +39,9 @@
         {
             "name": "Veritas Gaming",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/Logo Veritas Gaming.png",
-            "games": 4,
+            "games": 5,
             "w": null,
-            "l": 3,
+            "l": 4,
             "d": 1,
             "puntos": 1
         },
@@ -75,11 +75,11 @@
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 3,
-            "w": 1,
+            "games": 4,
+            "w": 2,
             "l": 1,
             "d": 1,
-            "puntos": 3
+            "puntos": 5
         },
         {
             "name": "Children of the Corn",
@@ -113,11 +113,11 @@
         {
             "name": "Guerreros Z",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "games": 5,
+            "games": 6,
             "w": 1,
             "l": 1,
-            "d": 3,
-        "puntos": 5
+            "d": 4,
+        "puntos": 6
         },
         {
             "name": "Windfury Enjoyers",
@@ -131,20 +131,20 @@
         {
             "name": "LA Lakers",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
-            "games": 6,
-            "w": 4,
+            "games": 7,
+            "w": 5,
             "l": 1,
             "d": 1,
-            "puntos": 9
+            "puntos": 11
         },
         {
             "name": "Fantasmas",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
-            "games": 4,
+            "games": 5,
             "w": 3,
             "l": null,
-            "d": 1,
-            "puntos": 7
+            "d": 2,
+            "puntos": 8
         },
         {
             "name": "DREAM",
@@ -167,29 +167,29 @@
         {
            "name": "La Gatoneta",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-            "games": 4,
+            "games": 5,
             "w": 3,
-            "l": null,
+            "l": 1,
             "d": 1,
             "puntos": 7
         },
         {
              "name": "3FECTO DIVINE",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-            "games": 4,
+            "games": 5,
             "w": 2,
-            "l": null,
+            "l": 1,
             "d": 2,
             "puntos": 6
         },
         {
              "name": "Aldea Gaming",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
-            "games": 4,
+            "games": 5,
             "w": 1,
             "l": null,
-            "d": 3,
-            "puntos": 5
+            "d": 4,
+            "puntos": 6
         },
         {
             "name": "The Orphans",
