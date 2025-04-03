@@ -141,10 +141,10 @@
             "name": "Fantasmas",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
             "games": 5,
-            "w": 3,
+            "w": 4,
             "l": null,
-            "d": 2,
-            "puntos": 8
+            "d": 1,
+            "puntos": 9
         },
         {
             "name": "DREAM",
