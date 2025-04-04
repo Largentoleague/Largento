@@ -513,11 +513,11 @@
       [
         {
           "team": "AS_Dance",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Hydra E-Sport",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -533,7 +533,7 @@
       [
         {
           "team": "Carpinchos Rage",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Veritas Gaming",
@@ -583,7 +583,7 @@
       [
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Windfury Enjoyers",
@@ -603,11 +603,11 @@
       [
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "The Orphans",
-          "resultado": 0
+          "resultado": 1
         }
       ]
     ],
