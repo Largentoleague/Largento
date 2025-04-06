@@ -441,11 +441,11 @@
       [
         {
           "team": "The raw chickens",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Hydra E-sport",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -625,11 +625,11 @@
       [
         {
           "team": "Hydra E-sport",
-          "resultado": 1
+          "resultado": 0
         },
         {
           "team": "Children of the Corn",
-          "resultado": 1
+          "resultado": 0
         }
       ],
       [
