@@ -21,11 +21,11 @@
         {
             "name": "The raw chickens",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
-            "games": 4,
-            "w": 1,
+            "games": 6,
+            "w": 2,
             "l": 1,
-            "d": 2,
-            "puntos": 4
+            "d": 3,
+            "puntos": 7
         },
         {
             "name": "Sushi BoyS",
@@ -48,11 +48,11 @@
         {
             "name": "Team Server",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
-            "games": 4,
-            "w": 1,
+            "games": 5,
+            "w": 2,
             "l": 1,
             "d": 2,
-            "puntos": 4
+            "puntos": 6
         },
         {
             "name": "Carpinchos Rage",
@@ -66,18 +66,18 @@
         {
             "name": "Black holes",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-            "games": 3,
+            "games": 4,
             "w": 1,
-            "l": 1,
+            "l": 2,
             "d": 1,
             "puntos": 3
         },
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 4,
+            "games": 5,
             "w": 2,
-            "l": 1,
+            "l": 2,
             "d": 1,
             "puntos": 5
         },
@@ -93,11 +93,11 @@
         {
             "name": "Hydra E-sport",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-            "games": 3,
+            "games": 4,
             "w": 1,
             "l": null,
-            "d": 3,
-            "puntos": 5
+            "d": 4,
+            "puntos": 6
         }
     ],
     [
