@@ -431,11 +431,11 @@
       [
         {
           "team": "The Rats",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "AS_Dance",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -501,11 +501,11 @@
       [
         {
           "team": "Windfury Enjoyers",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "The Orphans",
-          "resultado": 0
+          "resultado": 1
         }
       ]
     ],
@@ -543,7 +543,7 @@
       [
         {
           "team": "Children of the Corn",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "The Rats",
@@ -577,7 +577,7 @@
         },
         {
           "team": "Fantasmas",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
