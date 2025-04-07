@@ -30,11 +30,11 @@
         {
             "name": "Sushi BoyS",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
-            "games": 5,
+            "games": 6,
             "w": 2,
             "l": 1,
-            "d": 2,
-            "puntos": 6
+            "d": 3,
+            "puntos": 7
         },
         {
             "name": "Veritas Gaming",
@@ -66,11 +66,11 @@
         {
             "name": "Black holes",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-            "games": 4,
+            "games": 5,
             "w": 1,
             "l": 2,
-            "d": 1,
-            "puntos": 3
+            "d": 2,
+            "puntos": 4
         },
         {
             "name": "Players Libres",
