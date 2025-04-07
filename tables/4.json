@@ -104,20 +104,20 @@
         {
             "name": "Lemuria",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/lemuria (1).png",
-            "games": 5,
+            "games": 6,
             "w": 1,
-            "l": 2,
+            "l": 3,
             "d": 2,
             "puntos": 4
         },
         {
             "name": "Guerreros Z",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "games": 6,
-            "w": 1,
+            "games": 7,
+            "w": 2,
             "l": 1,
             "d": 4,
-        "puntos": 6
+        "puntos": 8
         },
         {
             "name": "Windfury Enjoyers",
