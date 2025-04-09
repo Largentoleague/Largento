@@ -176,18 +176,18 @@
         {
              "name": "3FECTO DIVINE",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-            "games": 6,
-            "w": 3,
+            "games": 8,
+            "w": 4,
             "l": 1,
             "d": 2,
-            "puntos": 8
+            "puntos": 10
         },
         {
              "name": "Aldea Gaming",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
-            "games": 5,
+            "games": 6,
             "w": 1,
-            "l": null,
+            "l": 1,
             "d": 4,
             "puntos": 6
         },
