@@ -12,11 +12,11 @@
         {
             "name": "The Rats",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-            "games": 6,
-            "w": 2,
+            "games": 7,
+            "w": 3,
             "l": 3,
             "d": 1,
-            "puntos": 5
+            "puntos": 7
         },
         {
             "name": "The raw chickens",
@@ -66,9 +66,9 @@
         {
             "name": "Black holes",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-            "games": 5,
+            "games": 6,
             "w": 1,
-            "l": 2,
+            "l": 3,
             "d": 2,
             "puntos": 4
         },
