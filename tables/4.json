@@ -3,11 +3,11 @@
         {
             "name": "ASA_Dance",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/as dance.jpeg",
-            "games": 6,
+            "games": 7,
             "w": null,
             "l": 2,
-            "d": 4,
-            "puntos": 4
+            "d": 5,
+            "puntos": 5
         },
         {
             "name": "The Rats",
@@ -75,11 +75,11 @@
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 5,
+            "games": 6,
             "w": 2,
             "l": 2,
             "d": 1,
-            "puntos": 5
+            "puntos": 6
         },
         {
             "name": "Children of the Corn",
