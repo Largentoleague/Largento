@@ -12,11 +12,11 @@
         {
             "name": "The Rats",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-            "games": 7,
+            "games": 8,
             "w": 3,
             "l": 3,
-            "d": 1,
-            "puntos": 7
+            "d": 2,
+            "puntos": 8
         },
         {
             "name": "The raw chickens",
@@ -48,11 +48,11 @@
         {
             "name": "Team Server",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/team server.png",
-            "games": 6,
+            "games": 7,
             "w": 2,
             "l": 2,
-            "d": 2,
-            "puntos": 6
+            "d": 3,
+            "puntos": 7
         },
         {
             "name": "Carpinchos Rage",
@@ -66,38 +66,38 @@
         {
             "name": "Black holes",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-            "games": 6,
+            "games": 7,
             "w": 1,
             "l": 3,
-            "d": 2,
-            "puntos": 4
+            "d": 3,
+            "puntos": 5
         },
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 6,
-            "w": 2,
+            "games": 7,
+            "w": 3,
             "l": 2,
-            "d": 1,
-            "puntos": 6
+            "d": 2,
+            "puntos": 8
         },
         {
             "name": "Children of the Corn",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the crow.png",
-            "games": 6,
+            "games": 7,
             "w": 3,
-            "l": null,
+            "l": 1,
             "d": 3,
             "puntos": 9
         },
         {
             "name": "Hydra E-sport",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-            "games": 6,
+            "games": 7,
             "w": 1,
             "l": null,
-            "d": 5,
-            "puntos": 7
+            "d": 6,
+            "puntos": 8
         }
     ],
     [
@@ -113,20 +113,20 @@
         {
             "name": "Guerreros Z",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "games": 7,
-            "w": 2,
+            "games": 8,
+            "w": 3,
             "l": 1,
             "d": 4,
-        "puntos": 8
+        "puntos": 10
         },
         {
             "name": "Windfury Enjoyers",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/windfury.png",
-            "games": 6,
+            "games": 8,
             "w": 1,
-            "l": 3,
-            "d": 2,
-            "puntos": 4
+            "l": 4,
+            "d": 3,
+            "puntos": 5
         },
         {
             "name": "LA Lakers",
@@ -140,11 +140,11 @@
         {
             "name": "Fantasmas",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
-            "games": 6,
-            "w": 5,
+            "games": 7,
+            "w": 6,
             "l": null,
             "d": 1,
-            "puntos": 11
+            "puntos": 13
         },
         {
             "name": "DREAM",
@@ -158,18 +158,18 @@
         {
             "name": "Branca Team",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
-            "games": 7,
+            "games": 8,
             "w": 3,
             "l": 2,
-            "d": 2,
-            "puntos": 8
+            "d": 3,
+            "puntos": 9
         },
         {
            "name": "La Gatoneta",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-            "games": 6,
+            "games": 7,
             "w": 3,
-            "l": 1,
+            "l": 2,
             "d": 2,
             "puntos": 8
         },
