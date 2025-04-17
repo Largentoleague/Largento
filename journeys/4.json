@@ -899,11 +899,11 @@
       [
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Fantasmas",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -945,13 +945,13 @@
         },
         {
           "team": "Player Libre",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
         {
           "team": "The raw chickens",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "AS_Dance",
