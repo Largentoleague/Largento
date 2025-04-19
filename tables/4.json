@@ -30,11 +30,11 @@
         {
             "name": "Sushi BoyS",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
-            "games": 7,
+            "games": 8,
             "w": 3,
             "l": 1,
-            "d": 3,
-            "puntos": 9
+            "d": 4,
+            "puntos": 10
         },
         {
             "name": "Veritas Gaming",
@@ -93,11 +93,11 @@
         {
             "name": "Hydra E-sport",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
-            "games": 8,
+            "games": 9,
             "w": 2,
             "l": null,
-            "d": 6,
-            "puntos": 10
+            "d": 7,
+            "puntos": 11
         }
     ],
     [
