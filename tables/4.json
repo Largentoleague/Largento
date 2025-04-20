@@ -158,20 +158,20 @@
         {
             "name": "Branca Team",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/branca team.png",
+            "games": 10,
+            "w": 3,
+            "l": 2,
+            "d": 5,
+            "puntos": 11
+        },
+        {
+           "name": "La Gatoneta",
+            "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
             "games": 8,
             "w": 3,
             "l": 2,
             "d": 3,
             "puntos": 9
-        },
-        {
-           "name": "La Gatoneta",
-            "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/la gatoneta.png",
-            "games": 7,
-            "w": 3,
-            "l": 2,
-            "d": 2,
-            "puntos": 8
         },
         {
              "name": "3FECTO DIVINE",
@@ -185,11 +185,11 @@
         {
              "name": "Aldea Gaming",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/ALDEA GAMING.png",
-            "games": 7,
+            "games": 8,
             "w": 2,
             "l": 1,
-            "d": 4,
-            "puntos": 8
+            "d": 5,
+            "puntos": 9
         },
         {
             "name": "The Orphans",
