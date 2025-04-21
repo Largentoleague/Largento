@@ -879,7 +879,7 @@
       [
         {
           "team": "3FECTO DIVINE",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "La Gatoneta",
@@ -889,7 +889,7 @@
       [
         {
           "team": "Guerreros Z",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "LA Lakers",
@@ -921,11 +921,11 @@
       [
         {
           "team": "Black holes",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Carpinchos Rage",
-          "resultado": 0
+          "resultado": 1
         }
       ],
       [
@@ -965,7 +965,7 @@
         },
         {
           "team": "Children of the Corn",
-          "resultado": 0
+          "resultado": 2
         }
       ],
       [
@@ -981,7 +981,7 @@
       [
         {
           "team": "Fantasmas",
-          "resultado": 0
+          "resultado": 2
         },
         {
           "team": "Aldea Gaming",
@@ -1011,11 +1011,11 @@
       [
         {
           "team": "Windfury Enjoyers",
-          "resultado": 0
+          "resultado": 1
         },
         {
           "team": "Lemuria",
-          "resultado": 0
+          "resultado": 1
         }
       ]
     ],
