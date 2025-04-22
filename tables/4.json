@@ -21,11 +21,11 @@
         {
             "name": "The raw chickens",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
-            "games": 9,
-            "w": 5,
+            "games": 10,
+            "w": 6,
             "l": 1,
             "d": 3,
-            "puntos": 13
+            "puntos": 15
         },
         {
             "name": "Sushi BoyS",
@@ -66,27 +66,27 @@
         {
             "name": "Black holes",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/black hole.png",
-            "games": 8,
+            "games": 9,
             "w": 1,
-            "l": 3,
+            "l": 4,
             "d": 4,
             "puntos": 6
         },
         {
             "name": "Players Libres",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
-            "games": 8,
-            "w": 4,
+            "games": 9,
+            "w": 5,
             "l": 2,
             "d": 2,
-            "puntos": 10
+            "puntos": 12
         },
         {
             "name": "Children of the Corn",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the crow.png",
-            "games": 9,
+            "games": 10,
             "w": 4,
-            "l": 1,
+            "l": 2,
             "d": 4,
             "puntos": 12
         },
