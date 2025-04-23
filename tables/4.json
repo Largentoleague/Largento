@@ -131,11 +131,11 @@
         {
             "name": "LA Lakers",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png",
-            "games": 9,
+            "games": 10,
             "w": 6,
             "l": 2,
-            "d": 1,
-            "puntos": 13
+            "d": 2,
+            "puntos": 14
         },
         {
             "name": "Fantasmas",
@@ -176,11 +176,11 @@
         {
              "name": "3FECTO DIVINE",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
-            "games": 9,
+            "games": 10,
             "w": 6,
             "l": 1,
-            "d": 2,
-            "puntos": 14
+            "d": 3,
+            "puntos": 15
         },
         {
              "name": "Aldea Gaming",
