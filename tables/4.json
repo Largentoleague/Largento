@@ -113,11 +113,11 @@
         {
             "name": "Guerreros Z",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "games": 9,
+            "games": 10,
             "w": 4,
             "l": 1,
-            "d": 4,
-        "puntos": 12
+            "d": 5,
+        "puntos": 13
         },
         {
             "name": "Windfury Enjoyers",
@@ -194,11 +194,11 @@
         {
             "name": "The Orphans",
             "logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the orphans.png",
-            "games": 9,
+            "games": 10,
             "w": 1,
             "l": 5,
-            "d": 3,
-            "puntos": 5
+            "d": 4,
+            "puntos": 6
         }
     ]
 ]
