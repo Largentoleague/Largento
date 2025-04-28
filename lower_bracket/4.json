@@ -36,91 +36,91 @@
 "lower_segunda_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/old_dogs.png",
-            "team_name": "Old Dogs"
+            "team_name": "A"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-            "team_name": "Nymeria"
+            "team_name": "B"
     }],
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/skere.png",
-            "team_name": "Skeres"
+            "team_name": "C"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
-            "team_name": "No Papus"
+            "team_name": "D"
     }],
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
-            "team_name": "Team Mafia"
+            "team_name": "E"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
-            "team_name": "Guerreros Z"
+            "team_name": "F"
     }],
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-            "team_name": "The Rats"
+            "team_name": "G"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/hydra_esport.png",
-            "team_name": "Hydra E-sport"
+            "team_name": "H"
     }]
     ]
 "lower_tercera_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-            "team_name": "Nymeria"
+            "team_name": "I"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/NO_PAPUS.png",
-            "team_name": "No Papus"
+            "team_name": "J"
     }],
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
-            "team_name": "Team Mafia"
+            "team_name": "K"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/the_rats.png",
-            "team_name": "The Rats"
+            "team_name": "L"
     }]
     ]
 "lower_cuarta_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
-            "team_name": "Efecto Divine"
+            "team_name": "M"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-            "team_name": "Nymeria"
+            "team_name": "N"
     }],
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
-            "team_name": "Tatakae"
+            "team_name": "O"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
-            "team_name": "Team Mafia"
+            "team_name": "P"
     }]
     ]
 "lower_quinta_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/nymeria.png",
-            "team_name": "Nymeria"
+            "team_name": "Q"
         },
         {
-            "team_logo": "",
-            "team_name": "Sin ganador"
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+            "team_name": "R"
     }]
     ]
 "semi_final": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-            "team_name": "Gatitos Techeros"
+            "team_name": "S"
         },
         {
-            "team_logo": "",
-            "team_name": "Sin ganador"
+            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/team_mafia.png",
+            "team_name": "T"
     }]
 ]
 }
