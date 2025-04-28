@@ -1,70 +1,64 @@
-[
-    [
-        {
+{
+"upper_primera_ronda": [
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/the raw chikens.png",
             "team_name": "The raw chickens"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/guerreros_z.png",
             "team_name": "Guerreros Z"
-        },
-        {
+    }],
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/3efecto Divine.png",
             "team_name": "3FECTO DIVINE"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/player libre.png",
             "team_name": "Players Libres"
-        },
-        {
+    }],
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/sushi boys.png",
             "team_name": "Sushi BoyS"
         },
         {
             "team_name": "LA Lakers",
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/LA Lakers.png"
-        },
-        {
+    }],
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/fantasmas.png",
             "team_name": "Fantasmas"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/logos liga s4/hydra.png",
             "team_name": "Hydra E-sport"
-        }
+    }]
     ],
-    [
-        {
+"UPPER_SEGUNDA_RONDA": [
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-            "team_name": ""
+            "team_name": "A"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/efecto_divine.png",
-            "team_name": ""
-        },
-        {
+            "team_name": "B"
+    }],
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
-            "team_name": ""
+            "team_name": "C"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/TM2N_MT.png",
-            "team_name": ""
-        }
+            "team_name": "D"
+    }]
     ],
-    [
-        {
+"UPPER_TERCERA_RONDA": [
+    [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
-            "team_name": ""
+            "team_name": "E"
         },
         {
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
-            "team_name": ""
-        }
-    ],
-    [
-        {
-            "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/LIGHTNING+4_TANGOS.png",
-            "team_name": ""
-        }
+            "team_name": "F"
+    }]
     ]
-]
+}
