@@ -33,7 +33,7 @@
             "team_name": "Hydra E-sport"
     }]
     ],
-"UPPER_SEGUNDA_RONDA": [
+"upper_segunda_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
             "team_name": "A"
@@ -51,7 +51,7 @@
             "team_name": "D"
     }]
     ],
-"UPPER_TERCERA_RONDA": [
+"upper_tercera_ronda": [
     [{
             "team_logo": "https://raw.githubusercontent.com/Largentoleague/Largento/refs/heads/main/teams_icons/Temporada 3/gatitos.png",
             "team_name": "E"
